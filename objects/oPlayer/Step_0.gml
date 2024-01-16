@@ -19,12 +19,20 @@ downKey = keyboard_check(ord("S"));
 	xspd = lengthdir_x( _spd, moveDir);
 	yspd = lengthdir_y( _spd, moveDir);
 	
+	//collisions
+	if place_meeting(x+xspd,y,oWall) {
+		xspd = 0;
+	}
+	if place_meeting(x,y+yspd,oWall) {
+		yspd = 0;
+	}
+	
 	//move the player
 	x += xspd;
 	y += yspd;
 	
 if (keyboard_check_pressed(vk_space)) {
-	sprite_index = splayerJam;	
+	sprite_index = sPlayerJam;	
 }
 if (keyboard_check_released(vk_space)) {
 	sprite_index = sPlayer;	

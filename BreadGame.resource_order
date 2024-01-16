@@ -3,8 +3,14 @@
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sPlayerLayer","order":16,"path":"sprites/sPlayerLayer/sPlayerLayer.yy",},
+    {"name":"sSolidWall","order":19,"path":"sprites/sSolidWall/sSolidWall.yy",},
     {"name":"sPlayer","order":11,"path":"sprites/sPlayer/sPlayer.yy",},
-    {"name":"splayerJam","order":13,"path":"sprites/splayerJam/splayerJam.yy",},
+    {"name":"oWall","order":18,"path":"objects/oWall/oWall.yy",},
+    {"name":"sWall","order":17,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sPlayerJam","order":13,"path":"sprites/sPlayerJam/sPlayerJam.yy",},
     {"name":"oPlayer","order":12,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oPlayerLayer","order":15,"path":"objects/oPlayerLayer/oPlayerLayer.yy",},
+    {"name":"oSolidWall","order":20,"path":"objects/oSolidWall/oSolidWall.yy",},
   ],
 }
