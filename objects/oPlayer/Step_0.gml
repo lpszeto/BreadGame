@@ -30,10 +30,40 @@ downKey = keyboard_check(ord("S"));
 	//move the player
 	x += xspd;
 	y += yspd;
-	
-if (keyboard_check_pressed(vk_space)) {
-	sprite_index = sPlayerJam;	
+
+
+//walking animations
+var _mostRecentWalk = sPlayerWalkLeft;
+var _mostRecent = sPlayerLeft;
+if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) {
+	_mostRecentWalk = sPlayerWalkRight;
+	_mostRecent = sPlayerRight;
+	sprite_index = _mostRecentWalk;	
+} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) {
+	_mostRecentWalk = sPlayerWalkLeft;
+	_mostRecent = sPlayerLeft;
+	sprite_index = _mostRecentWalk;	
+} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) {
+	sprite_index = sPlayerRight;	
+} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) {
+	sprite_index = sPlayerLeft;	
 }
-if (keyboard_check_released(vk_space)) {
-	sprite_index = sPlayer;	
+
+if (keyboard_check(ord("W")) == (!keyboard_check(ord("S")))) {
+	sprite_index = _mostRecentWalk;	
 }
+
+if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) ) {
+	sprite_index = _mostRecent;
+} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) ) {
+	sprite_index = _mostRecent;
+} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W")) ) {
+	sprite_index = _mostRecent;
+}
+/**
+if (keyboard_check_released(ord("D"))) {
+	sprite_index = sPlayerRight;	
+} if (keyboard_check_released(ord("A"))) {
+	sprite_index = sPlayerLeft;	
+}
+**/

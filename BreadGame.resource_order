@@ -5,8 +5,11 @@
   "ResourceOrderSettings": [
     {"name":"sPlayerLayer","order":16,"path":"sprites/sPlayerLayer/sPlayerLayer.yy",},
     {"name":"sSolidWall","order":19,"path":"sprites/sSolidWall/sSolidWall.yy",},
-    {"name":"sPlayer","order":11,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayerWalkRight","order":11,"path":"sprites/sPlayerWalkRight/sPlayerWalkRight.yy",},
+    {"name":"sPlayerRight","order":23,"path":"sprites/sPlayerRight/sPlayerRight.yy",},
     {"name":"oWall","order":18,"path":"objects/oWall/oWall.yy",},
+    {"name":"sPlayerLeft","order":24,"path":"sprites/sPlayerLeft/sPlayerLeft.yy",},
+    {"name":"sPlayerWalkLeft","order":21,"path":"sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy",},
     {"name":"sWall","order":17,"path":"sprites/sWall/sWall.yy",},
     {"name":"sPlayerJam","order":13,"path":"sprites/sPlayerJam/sPlayerJam.yy",},
     {"name":"oPlayer","order":12,"path":"objects/oPlayer/oPlayer.yy",},

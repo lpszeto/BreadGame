@@ -22,8 +22,11 @@
   "resources": [
     {"id":{"name":"sPlayerLayer","path":"sprites/sPlayerLayer/sPlayerLayer.yy",},},
     {"id":{"name":"sSolidWall","path":"sprites/sSolidWall/sSolidWall.yy",},},
-    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sPlayerWalkRight","path":"sprites/sPlayerWalkRight/sPlayerWalkRight.yy",},},
+    {"id":{"name":"sPlayerRight","path":"sprites/sPlayerRight/sPlayerRight.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"sPlayerLeft","path":"sprites/sPlayerLeft/sPlayerLeft.yy",},},
+    {"id":{"name":"sPlayerWalkLeft","path":"sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sPlayerJam","path":"sprites/sPlayerJam/sPlayerJam.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
