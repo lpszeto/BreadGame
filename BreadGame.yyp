@@ -40,7 +40,6 @@
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sPlayerWalkBackLeft","path":"sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy",},},
     {"id":{"name":"sPlayerAttackLeft","path":"sprites/sPlayerAttackLeft/sPlayerAttackLeft.yy",},},
-    {"id":{"name":"oSpread","path":"objects/oSpread/oSpread.yy",},},
     {"id":{"name":"sSpreadAttackRight","path":"sprites/sSpreadAttackRight/sSpreadAttackRight.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sPlayerLeft","path":"sprites/sPlayerLeft/sPlayerLeft.yy",},},

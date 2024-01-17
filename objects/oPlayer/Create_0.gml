@@ -4,6 +4,7 @@ moveSpd = 2;
 xspd = 0;
 yspd = 0;
 cooldown = 0;
+spreadOn = false;
 
 //sprite control
 centerYOffset = -20;

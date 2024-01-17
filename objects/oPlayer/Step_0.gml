@@ -37,7 +37,7 @@ downKey = keyboard_check(ord("S"));
 	y += yspd;
 	
 	//depth
-	depth = -bbox_bottom;
+	depth = 1-bbox_bottom;
 	
 #endregion
 
@@ -76,3 +76,7 @@ downKey = keyboard_check(ord("S"));
 		sprite_index = currentSprite[face];
 	}
 #endregion
+
+if mouse_check_button_pressed(mb_right){
+	spreadOn = !spreadOn;
+}

@@ -21,7 +21,6 @@
     {"name":"sPlayerWalkLeft","order":6,"path":"sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy",},
     {"name":"sWall","order":17,"path":"sprites/sWall/sWall.yy",},
     {"name":"sPlayerWalkBackLeft","order":14,"path":"sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy",},
-    {"name":"oSpread","order":6,"path":"objects/oSpread/oSpread.yy",},
     {"name":"sSpreadAttackRight","order":1,"path":"sprites/sSpreadAttackRight/sSpreadAttackRight.yy",},
     {"name":"oPlayer","order":12,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sPlayerLeft","order":4,"path":"sprites/sPlayerLeft/sPlayerLeft.yy",},
