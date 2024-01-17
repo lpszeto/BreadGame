@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb6074fa-7e59-4183-92c9-5ebc7568a647","blendMode":0,"displayName":"default","isLocked":false,"opacity":44.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 9,
+  "origin": 7,
   "parent": {
     "name": "BreadGame",
     "path": "BreadGame.yyp",
@@ -60,7 +60,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 128,
-    "yorigin": 124,
+    "yorigin": 256,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

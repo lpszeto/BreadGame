@@ -7,3 +7,6 @@ moveSpd = 2;
 xSpd = 0;
 ySpd = 0;
 depth = 0;
+
+mostRecentWalk = sPlayerWalkLeft;
+mostRecent = sPlayerLeft;
