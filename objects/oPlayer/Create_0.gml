@@ -4,12 +4,15 @@
 
 moveDir = 0;
 moveSpd = 2;
-xSpd = 0;
-ySpd = 0;
+xspd = 0;
+yspd = 0;
 depth = 0;
 
-mostRecentWalk = sPlayerWalkLeft;
-mostRecent = sPlayerLeft;
+
 mostRecentAttack = sPlayerAttackLeft;
+facingForward = true;
+facingRight = true;
+movingH = false;
+movingV = false;
 
 cooldown = 0;

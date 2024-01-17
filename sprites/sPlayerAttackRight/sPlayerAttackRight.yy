@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "BreadGame",
-    "path": "BreadGame.yyp",
+    "name": "playerSprites",
+    "path": "folders/playerSprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

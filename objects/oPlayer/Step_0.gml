@@ -38,34 +38,82 @@ downKey = keyboard_check(ord("S"));
 
 //walking animations
 
-
-if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) and cooldown <= 0 {
-	mostRecentWalk = sPlayerWalkRight;
-	mostRecent = sPlayerRight;
-	mostRecentAttack = sPlayerAttackRight;
-	sprite_index = mostRecentWalk;	
-} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) and cooldown <= 0 {
-	mostRecentWalk = sPlayerWalkLeft;
-	mostRecent = sPlayerLeft;
-	mostRecentAttack = sPlayerAttackLeft;
-	sprite_index = mostRecentWalk;	
-} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) and cooldown <= 0 {
-	sprite_index = sPlayerRight;	
-} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) and cooldown <= 0 {
-	sprite_index = sPlayerLeft;	
+if (keyboard_check(ord("W")) and (!keyboard_check(ord("S")))) {
+	facingForward = false;
+	movingV = true;
+} else if (keyboard_check(ord("S")) and (!keyboard_check(ord("W")))) {
+	facingForward = true;
+	movingV = true;
+} else if (keyboard_check(ord("W")) and (keyboard_check_pressed(ord("S")))) {
+	facingForward = false;
+	movingV = false;
+} else if (keyboard_check(ord("S")) and (keyboard_check_pressed(ord("W")))) {
+	facingForward = true;
+	movingV = false;
 }
 
-if (keyboard_check(ord("W")) == (!keyboard_check(ord("S")))) and cooldown <= 0 {
-	sprite_index = mostRecentWalk;	
+
+if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) {
+	facingRight = true;
+	movingH = true;
+} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) {
+	facingRight = false;
+	movingH = true;
+} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) {
+	facingRight = true;
+	movingH = false;
+} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) {
+	facingRight = false;
+	movingH = false;
+}	
+
+
+if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W"))) {
+	movingH = false;
+	movingV = false;
+} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W"))) {
+	movingH = false;
+	movingV = false;
+} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W"))) {
+	movingH = false;
+	movingV = false;
 }
 
-if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) and cooldown <= 0) {
-	sprite_index = mostRecent;
-} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) and cooldown <= 0) {
-	sprite_index = mostRecent;
-} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W")) and cooldown <= 0) {
-	sprite_index = mostRecent;
+
+if facingForward  and cooldown <= 0 {
+	if facingRight {
+		mostRecentAttack = sPlayerAttackRight;
+		if movingH or movingV {
+			sprite_index = sPlayerWalkRight;
+		} else {
+			sprite_index = sPlayerRight;
+		}
+	} else {
+		mostRecentAttack = sPlayerAttackLeft;
+		if movingH or movingV {
+			sprite_index = sPlayerWalkLeft;
+		} else {
+			sprite_index = sPlayerLeft;
+		}
+	}
+} else if cooldown <= 0 {
+	if facingRight {
+		mostRecentAttack = sPlayerAttackBackRight;
+		if movingH or movingV {
+			sprite_index = sPlayerWalkRight;
+		} else {
+			sprite_index = sPlayerBackRight;
+		}
+	} else {
+		mostRecentAttack = sPlayerAttackBackLeft;
+		if movingH or movingV {
+			sprite_index = sPlayerWalkLeft;
+		} else {
+			sprite_index = sPlayerBackLeft;
+		}
+	}
 }
+
 
 //attack
 if cooldown > 0 {
