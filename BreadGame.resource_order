@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"playerSprites","order":31,"path":"folders/playerSprites.yy",},
+    {"name":"Player","order":31,"path":"folders/Player.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerLayer","order":3,"path":"sprites/sPlayerLayer/sPlayerLayer.yy",},
@@ -12,13 +12,15 @@
     {"name":"oWall","order":18,"path":"objects/oWall/oWall.yy",},
     {"name":"sPlayerRight","order":5,"path":"sprites/sPlayerRight/sPlayerRight.yy",},
     {"name":"sPlayerAttackRight","order":1,"path":"sprites/sPlayerAttackRight/sPlayerAttackRight.yy",},
+    {"name":"sPlayerWalkBackRight","order":15,"path":"sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy",},
     {"name":"sPlayerBackRight","order":9,"path":"sprites/sPlayerBackRight/sPlayerBackRight.yy",},
     {"name":"sPlayerWalkLeft","order":6,"path":"sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy",},
     {"name":"sWall","order":17,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sPlayerWalkBackLeft","order":14,"path":"sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy",},
     {"name":"sPlayerJam","order":2,"path":"sprites/sPlayerJam/sPlayerJam.yy",},
     {"name":"oPlayer","order":12,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sPlayerLeft","order":4,"path":"sprites/sPlayerLeft/sPlayerLeft.yy",},
-    {"name":"oPlayerLayer","order":15,"path":"objects/oPlayerLayer/oPlayerLayer.yy",},
+    {"name":"oPlayerLayer","order":13,"path":"objects/oPlayerLayer/oPlayerLayer.yy",},
     {"name":"oSolidWall","order":20,"path":"objects/oSolidWall/oSolidWall.yy",},
     {"name":"sPlayerAttackBackRight","order":11,"path":"sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy",},
   ],

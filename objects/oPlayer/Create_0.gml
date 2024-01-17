@@ -1,18 +1,34 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+//variables for movement
 moveDir = 0;
 moveSpd = 2;
 xspd = 0;
 yspd = 0;
-depth = 0;
-
-
-mostRecentAttack = sPlayerAttackLeft;
-facingForward = true;
-facingRight = true;
-movingH = false;
-movingV = false;
-
 cooldown = 0;
+
+//sprite control
+centerYOffset = -20;
+centerY = y + centerYOffset;
+
+aimDir = 0;
+
+face = 3;
+
+sprite[0] = sPlayerBackRight;
+sprite[1] = sPlayerBackLeft;
+sprite[2] = sPlayerLeft;
+sprite[3] = sPlayerRight;
+
+
+spriteWalk[0] = sPlayerWalkBackRight;
+spriteWalk[1] = sPlayerWalkBackLeft;
+spriteWalk[2] = sPlayerWalkLeft;
+spriteWalk[3] = sPlayerWalkRight;
+
+
+spriteAttack[0] = sPlayerAttackBackRight;
+spriteAttack[1] = sPlayerAttackBackLeft;
+spriteAttack[2] = sPlayerAttackLeft;
+spriteAttack[3] = sPlayerAttackRight;
+
+currentSprite = sprite;
+sprite_index = currentSprite[face];

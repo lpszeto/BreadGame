@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BreadGame",
-    "path": "BreadGame.yyp",
+    "name": "Player",
+    "path": "folders/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,

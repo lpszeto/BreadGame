@@ -5,6 +5,7 @@ upKey = keyboard_check(ord("W"));
 downKey = keyboard_check(ord("S"));
 
 //player movement
+#region
 	//get the direction
 	var _horizKey = rightKey - leftKey;
 	var _vertKey = downKey - upKey;
@@ -34,93 +35,44 @@ downKey = keyboard_check(ord("S"));
 	//move the player
 	x += xspd;
 	y += yspd;
+	
+	//depth
+	depth = -bbox_bottom;
+	
+#endregion
 
+//player aiming
+	centerY = y + centerYOffset;
+	
+	//aim
+	aimDir = point_direction( x, centerY, mouse_x, mouse_y );
 
-//walking animations
-
-if (keyboard_check(ord("W")) and (!keyboard_check(ord("S")))) {
-	facingForward = false;
-	movingV = true;
-} else if (keyboard_check(ord("S")) and (!keyboard_check(ord("W")))) {
-	facingForward = true;
-	movingV = true;
-} else if (keyboard_check(ord("W")) and (keyboard_check_pressed(ord("S")))) {
-	facingForward = false;
-	movingV = false;
-} else if (keyboard_check(ord("S")) and (keyboard_check_pressed(ord("W")))) {
-	facingForward = true;
-	movingV = false;
-}
-
-
-if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) {
-	facingRight = true;
-	movingH = true;
-} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) {
-	facingRight = false;
-	movingH = true;
-} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) {
-	facingRight = true;
-	movingH = false;
-} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) {
-	facingRight = false;
-	movingH = false;
-}	
-
-
-if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W"))) {
-	movingH = false;
-	movingV = false;
-} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W"))) {
-	movingH = false;
-	movingV = false;
-} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W"))) {
-	movingH = false;
-	movingV = false;
-}
-
-
-if facingForward  and cooldown <= 0 {
-	if facingRight {
-		mostRecentAttack = sPlayerAttackRight;
-		if movingH or movingV {
-			sprite_index = sPlayerWalkRight;
-		} else {
-			sprite_index = sPlayerRight;
-		}
-	} else {
-		mostRecentAttack = sPlayerAttackLeft;
-		if movingH or movingV {
-			sprite_index = sPlayerWalkLeft;
-		} else {
-			sprite_index = sPlayerLeft;
-		}
+//sprite control
+#region
+	//make sure player is facing direction
+	face = round( (aimDir-45)/90 )
+	if face >= 4 { face = 0; }
+	
+	//animate
+	if xspd == 0 and yspd == 0 and cooldown <= 0 {
+		currentSprite = sprite;
+	} else if cooldown <= 0 {
+		currentSprite = spriteWalk;
 	}
-} else if cooldown <= 0 {
-	if facingRight {
-		mostRecentAttack = sPlayerAttackBackRight;
-		if movingH or movingV {
-			sprite_index = sPlayerWalkRight;
-		} else {
-			sprite_index = sPlayerBackRight;
-		}
-	} else {
-		mostRecentAttack = sPlayerAttackBackLeft;
-		if movingH or movingV {
-			sprite_index = sPlayerWalkLeft;
-		} else {
-			sprite_index = sPlayerBackLeft;
-		}
+	//attack animation
+	if cooldown > 0 {
+		cooldown -= 1;
 	}
-}
-
-
-//attack
-if cooldown > 0 {
-	cooldown -= 1;
-}
-if mouse_check_button_pressed(mb_left) and cooldown <= 0 {
-	sprite_index = mostRecentAttack;
-	image_index = 0;
-	cooldown = 24;
-}
+	
+	//set the player sprite
+	if mouse_check_button(mb_left) and cooldown <= 0 {
+		currentSprite = spriteAttack;
+		mask_index = sprite[3];
+		sprite_index = currentSprite[face];
+		image_index = 0;
+		cooldown = 24;
+	} else {
+		mask_index = sprite[3];
+		sprite_index = currentSprite[face];
+	}
+#endregion

@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BreadGame",
-    "path": "BreadGame.yyp",
+    "name": "Player",
+    "path": "folders/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -32,6 +32,9 @@
     "name": "sPlayerRight",
     "path": "sprites/sPlayerRight/sPlayerRight.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sPlayerRight",
+    "path": "sprites/sPlayerRight/sPlayerRight.yy",
+  },
   "visible": true,
 }
