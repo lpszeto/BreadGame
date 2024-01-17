@@ -7,7 +7,7 @@ cooldown = 0;
 spreadOn = false;
 
 //sprite control
-centerYOffset = -60;
+centerYOffset = -sprite_height/2;
 centerY = y + centerYOffset;
 
 aimDir = 0;
