@@ -26,7 +26,11 @@ downKey = keyboard_check(ord("S"));
 	if place_meeting(x,y+yspd,oWall) {
 		yspd = 0;
 	}
-	
+	//stationary during attack
+	if cooldown > 0 {
+		xspd /= 8;
+		yspd /= 8;
+	}
 	//move the player
 	x += xspd;
 	y += yspd;
@@ -35,35 +39,40 @@ downKey = keyboard_check(ord("S"));
 //walking animations
 
 
-if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) {
+if (keyboard_check(ord("D")) and (!keyboard_check(ord("A")))) and cooldown <= 0 {
 	mostRecentWalk = sPlayerWalkRight;
 	mostRecent = sPlayerRight;
+	mostRecentAttack = sPlayerAttackRight;
 	sprite_index = mostRecentWalk;	
-} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) {
+} else if (keyboard_check(ord("A")) and (!keyboard_check(ord("D")))) and cooldown <= 0 {
 	mostRecentWalk = sPlayerWalkLeft;
 	mostRecent = sPlayerLeft;
+	mostRecentAttack = sPlayerAttackLeft;
 	sprite_index = mostRecentWalk;	
-} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) {
+} else if (keyboard_check(ord("D")) and (keyboard_check_pressed(ord("A")))) and cooldown <= 0 {
 	sprite_index = sPlayerRight;	
-} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) {
+} else if (keyboard_check(ord("A")) and (keyboard_check_pressed(ord("D")))) and cooldown <= 0 {
 	sprite_index = sPlayerLeft;	
 }
 
-if (keyboard_check(ord("W")) == (!keyboard_check(ord("S")))) {
+if (keyboard_check(ord("W")) == (!keyboard_check(ord("S")))) and cooldown <= 0 {
 	sprite_index = mostRecentWalk;	
 }
 
-if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) ) {
+if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) and cooldown <= 0) {
 	sprite_index = mostRecent;
-} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) ) {
+} else if (keyboard_check(ord("A")) and keyboard_check(ord("D")) and !keyboard_check(ord("S")) and !keyboard_check(ord("W")) and cooldown <= 0) {
 	sprite_index = mostRecent;
-} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W")) ) {
+} else if (!keyboard_check(ord("A")) and !keyboard_check(ord("D")) and keyboard_check(ord("S")) and keyboard_check(ord("W")) and cooldown <= 0) {
 	sprite_index = mostRecent;
 }
-/**
-if (keyboard_check_released(ord("D"))) {
-	sprite_index = sPlayerRight;	
-} if (keyboard_check_released(ord("A"))) {
-	sprite_index = sPlayerLeft;	
+
+//attack
+if cooldown > 0 {
+	cooldown -= 1;
 }
-**/
+if mouse_check_button_pressed(mb_left) and cooldown <= 0 {
+	sprite_index = mostRecentAttack;
+	image_index = 0;
+	cooldown = 24;
+}

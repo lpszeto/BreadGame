@@ -10,3 +10,6 @@ depth = 0;
 
 mostRecentWalk = sPlayerWalkLeft;
 mostRecent = sPlayerLeft;
+mostRecentAttack = sPlayerAttackLeft;
+
+cooldown = 0;
