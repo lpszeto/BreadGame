@@ -1,3 +1,5 @@
+
+
 //get inputs
 rightKey = keyboard_check(ord("D"));
 leftKey = keyboard_check(ord("A"));
@@ -7,7 +9,7 @@ downKey = keyboard_check(ord("S"));
 // Define coordinate locations
 
 
-//player movement
+//player movement 
 #region
 	//get the direction
 	var _horizKey = rightKey - leftKey;
@@ -82,6 +84,6 @@ downKey = keyboard_check(ord("S"));
 	}
 #endregion
 
-if mouse_check_button_pressed(mb_right){
+if mouse_check_button_pressed(mb_right){ 
 	spreadOn = !spreadOn;
 }
