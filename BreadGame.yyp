@@ -14,6 +14,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spread","folderPath":"folders/Spread.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -24,6 +25,7 @@
   "resources": [
     {"id":{"name":"sPlayerAttackBackLeft","path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},},
     {"id":{"name":"sSpreadAttackLeft","path":"sprites/sSpreadAttackLeft/sSpreadAttackLeft.yy",},},
+    {"id":{"name":"IsoCartConversion","path":"scripts/IsoCartConversion/IsoCartConversion.yy",},},
     {"id":{"name":"sPlayerBackLeft","path":"sprites/sPlayerBackLeft/sPlayerBackLeft.yy",},},
     {"id":{"name":"sSpreadLeft","path":"sprites/sSpreadLeft/sSpreadLeft.yy",},},
     {"id":{"name":"sSolidWall","path":"sprites/sSolidWall/sSolidWall.yy",},},

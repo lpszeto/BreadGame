@@ -3,6 +3,7 @@
     {"name":"Player","order":31,"path":"folders/Player.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Spread","order":32,"path":"folders/Spread.yy",},
+    {"name":"Scripts","order":33,"path":"folders/Scripts.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerAttackBackLeft","order":10,"path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},

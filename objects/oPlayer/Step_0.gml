@@ -4,6 +4,9 @@ leftKey = keyboard_check(ord("A"));
 upKey = keyboard_check(ord("W"));
 downKey = keyboard_check(ord("S"));
 
+// Define coordinate locations
+
+
 //player movement
 #region
 	//get the direction
