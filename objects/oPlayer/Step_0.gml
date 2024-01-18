@@ -73,6 +73,8 @@ downKey = keyboard_check(ord("S"));
 		mask_index = sprite[3];
 		sprite_index = currentSprite[face];
 		image_index = 0;
+		
+		// Cooldown prevents animations from occuring until value reaches 0
 		cooldown = 24;
 	} else {
 		mask_index = sprite[3];
