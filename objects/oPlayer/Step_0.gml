@@ -25,7 +25,7 @@ downKey = keyboard_check(ord("S"));
 	xspd = lengthdir_x( _spd, moveDir);
 	yspd = lengthdir_y( _spd, moveDir);
 	
-	//collisions
+	// wall collisions 
 	if place_meeting(x+xspd,y,oWall) {
 		xspd = 0;
 	}
