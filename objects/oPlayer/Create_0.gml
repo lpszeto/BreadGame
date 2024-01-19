@@ -50,3 +50,4 @@ attackStart = false;
 
 //weapon info
 	slashAttack = oSlashAttack;
+
