@@ -1,6 +1,7 @@
 
 if cooldown > 0 {
-	draw_sprite_ext( sSlashAttack, image_index, x + sprite_width/4, y + centerYOffset - sprite_height/4, 1, 1, (face+1)*90, c_white, 0.5  )
+	if face == 1 {directionOfSlash = -1;} else {directionOfSlash = 1;}
+	draw_sprite_ext( sSlashAttack, image_index, x, y + centerYOffset, directionOfSlash, 1, aimDir, c_white, 0.5  )
 }
 
 draw_self();
@@ -24,7 +25,7 @@ if face > 1 and spreadOn {
 	} else if currentSprite == spriteAttack {
 		spriteToDraw = spriteSpreadAttack[face]
 	}
-	draw_sprite_ext( spriteToDraw, image_index, x, y, 1, 1, 0, c_white, 0.5  )
+	draw_sprite_ext( spriteToDraw, image_index, x, y, image_xscale, image_yscale, 0, c_white, 0.5  )
 } 
 	
 
