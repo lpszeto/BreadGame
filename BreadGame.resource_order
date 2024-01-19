@@ -10,7 +10,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerAttackBackLeft","order":8,"path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},
-    {"name":"JamParent","order":1,"path":"objects/JamParent/JamParent.yy",},
+    {"name":"oStrawJam","order":1,"path":"objects/oStrawJam/oStrawJam.yy",},
     {"name":"PB_idle","order":7,"path":"sprites/PB_idle/PB_idle.yy",},
     {"name":"sPlayerBackLeft","order":6,"path":"sprites/sPlayerBackLeft/sPlayerBackLeft.yy",},
     {"name":"sSpreadLeft","order":2,"path":"sprites/sSpreadLeft/sSpreadLeft.yy",},
@@ -36,7 +36,6 @@
     {"name":"blueberry_idle","order":11,"path":"sprites/blueberry_idle/blueberry_idle.yy",},
     {"name":"avocado_idle","order":8,"path":"sprites/avocado_idle/avocado_idle.yy",},
     {"name":"oPlayer","order":10,"path":"objects/oPlayer/oPlayer.yy",},
-    {"name":"avo_jam","order":2,"path":"objects/avo_jam/avo_jam.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
     {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"rmInitialize","order":1,"path":"rooms/rmInitialize/rmInitialize.yy",},

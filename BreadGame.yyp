@@ -29,7 +29,7 @@
   },
   "resources": [
     {"id":{"name":"sPlayerAttackBackLeft","path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},},
-    {"id":{"name":"JamParent","path":"objects/JamParent/JamParent.yy",},},
+    {"id":{"name":"oStrawJam","path":"objects/oStrawJam/oStrawJam.yy",},},
     {"id":{"name":"sSpreadAttackLeft","path":"sprites/sSpreadAttackLeft/sSpreadAttackLeft.yy",},},
     {"id":{"name":"PB_idle","path":"sprites/PB_idle/PB_idle.yy",},},
     {"id":{"name":"sPlayerBackLeft","path":"sprites/sPlayerBackLeft/sPlayerBackLeft.yy",},},
@@ -58,7 +58,6 @@
     {"id":{"name":"blueberry_idle","path":"sprites/blueberry_idle/blueberry_idle.yy",},},
     {"id":{"name":"avocado_idle","path":"sprites/avocado_idle/avocado_idle.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"avo_jam","path":"objects/avo_jam/avo_jam.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"rmInitialize","path":"rooms/rmInitialize/rmInitialize.yy",},},
@@ -66,11 +65,9 @@
     {"id":{"name":"oSolidWall","path":"objects/oSolidWall/oSolidWall.yy",},},
     {"id":{"name":"sPlayerAttackBackRight","path":"sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy",},},
     {"id":{"name":"sSlashAttackReversed","path":"sprites/sSlashAttackReversed/sSlashAttackReversed.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rmInitialize","path":"rooms/rmInitialize/rmInitialize.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
