@@ -24,6 +24,7 @@
     {"name":"sPlayerAttackRight","order":1,"path":"sprites/sPlayerAttackRight/sPlayerAttackRight.yy",},
     {"name":"sSpreadWalkLeft","order":4,"path":"sprites/sSpreadWalkLeft/sSpreadWalkLeft.yy",},
     {"name":"sPlayerWalkBackRight","order":12,"path":"sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy",},
+    {"name":"FatherJam","order":3,"path":"objects/FatherJam/FatherJam.yy",},
     {"name":"sPlayerBackRight","order":7,"path":"sprites/sPlayerBackRight/sPlayerBackRight.yy",},
     {"name":"sSpreadWalkRight","order":5,"path":"sprites/sSpreadWalkRight/sSpreadWalkRight.yy",},
     {"name":"honey_idle","order":10,"path":"sprites/honey_idle/honey_idle.yy",},

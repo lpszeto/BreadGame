@@ -7,6 +7,8 @@ cooldown = 0;
 spreadOn = false;
 attackStart = false;
 
+jar_break_bool = false;
+
 //sprite control
 #region
 	centerYOffset = -sprite_height/2;

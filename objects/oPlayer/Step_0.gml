@@ -93,6 +93,13 @@ attackKey = mouse_check_button(mb_left);
 	
 #endregion
 
-if mouse_check_button_pressed(mb_right){ 
+if mouse_check_button_pressed(mb_right) || jar_break_bool{ 
 	spreadOn = !spreadOn;
+	jar_break_bool = false;
+}
+
+if (keyboard_check_pressed(ord("R"))) {
+    var newObj = instance_create_layer(100, 100, "Instances", oStrawJam);
+	newObj.image_xscale = 2;
+	newObj.image_yscale = 2;
 }

@@ -45,6 +45,7 @@
     {"id":{"name":"bg_placeholder","path":"sprites/bg_placeholder/bg_placeholder.yy",},},
     {"id":{"name":"sSpreadWalkLeft","path":"sprites/sSpreadWalkLeft/sSpreadWalkLeft.yy",},},
     {"id":{"name":"sPlayerWalkBackRight","path":"sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy",},},
+    {"id":{"name":"FatherJam","path":"objects/FatherJam/FatherJam.yy",},},
     {"id":{"name":"sPlayerBackRight","path":"sprites/sPlayerBackRight/sPlayerBackRight.yy",},},
     {"id":{"name":"sSpreadWalkRight","path":"sprites/sSpreadWalkRight/sSpreadWalkRight.yy",},},
     {"id":{"name":"honey_idle","path":"sprites/honey_idle/honey_idle.yy",},},
