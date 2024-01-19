@@ -33,7 +33,7 @@
   "origin": 7,
   "parent": {
     "name": "Spread",
-    "path": "folders/Spread.yy",
+    "path": "folders/Objects/Player/Spread.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
