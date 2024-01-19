@@ -1,17 +1,3 @@
-
-if cooldown > 0 {
-	//if face == 1 {slashAttack = sSlashAttackReversed;} else {slashAttack = sSlashAttack;}
-	if face == 0 {
-		draw_sprite_ext( sSlashAttackReversed, image_index, x + sprite_width/4, y + centerYOffset + sprite_height/8, 1, 1, 90, c_white, 0.5  )
-	} else if face == 1 {
-		draw_sprite_ext( sSlashAttackReversed, image_index, x - sprite_width/4, y + centerYOffset, 1, 1, 250, c_white, 0.5  )
-	} else if face == 2 {
-		draw_sprite_ext( sSlashAttack, image_index, x - sprite_width/4, y + centerYOffset + sprite_height/8, 1, 1, 180, c_white, 0.5  )
-	} else {
-		draw_sprite_ext( sSlashAttack, image_index, x + sprite_width/4, y + centerYOffset, 1, 1, 0, c_white, 0.5  )
-	}
-}
-
 draw_self();
 
 spriteSpread[2] = sSpreadLeft;

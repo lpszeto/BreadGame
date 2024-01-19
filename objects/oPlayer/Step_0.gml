@@ -90,12 +90,6 @@ attackKey = mouse_check_button(mb_left);
 	}
 #endregion
 
-//attack animation
-/*
-	if attackStart {
-		instance_create_depth( x, centerY, depth-100, slashAttack );
-	}*/
-
 if mouse_check_button_pressed(mb_right){ 
 	spreadOn = !spreadOn;
 }

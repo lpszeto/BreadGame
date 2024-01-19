@@ -48,6 +48,4 @@ attackStart = false;
 	sprite_index = currentSprite[face];
 #endregion
 
-//weapon info
-	slashAttack = sSlashAttack;
 
