@@ -2,11 +2,11 @@
   "FolderOrderSettings": [
     {"name":"Objects","order":34,"path":"folders/Objects.yy",},
     {"name":"background","order":2,"path":"folders/Objects/background.yy",},
+    {"name":"Jams","order":3,"path":"folders/Objects/Jams.yy",},
     {"name":"Spread","order":13,"path":"folders/Objects/Player/Spread.yy",},
     {"name":"Walls","order":1,"path":"folders/Objects/Walls.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":33,"path":"folders/Scripts.yy",},
-    {"name":"Jams","order":3,"path":"folders/Objects/Jams.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerAttackBackLeft","order":8,"path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},

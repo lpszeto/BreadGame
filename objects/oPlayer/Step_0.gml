@@ -75,19 +75,22 @@ attackKey = mouse_check_button(mb_left);
 	}
 	
 	//set the player sprite
-	if attackKey and cooldown <= 0 {
-		attackStart = true;
-		currentSprite = spriteAttack;
-		mask_index = sprite[3];
-		sprite_index = currentSprite[face];
-		image_index = 0;
+	if cooldown <= 0 {
+		if attackKey {
+			attackStart = true;
+			currentSprite = spriteAttack;
+			mask_index = sprite[3];
+			sprite_index = currentSprite[face];
+			image_index = 0;
 		
-		// Cooldown prevents animations from occuring until value reaches 0
-		cooldown = 24;
-	} else {
-		mask_index = sprite[3];
-		sprite_index = currentSprite[face];
+			// Cooldown prevents animations from occuring until value reaches 0
+			cooldown = 24;
+		} else {
+			mask_index = sprite[3];
+			sprite_index = currentSprite[face];
+		}
 	}
+	
 #endregion
 
 if mouse_check_button_pressed(mb_right){ 

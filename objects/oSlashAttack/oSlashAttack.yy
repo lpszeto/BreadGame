@@ -32,6 +32,9 @@
     "name": "sSlashAttack",
     "path": "sprites/sSlashAttack/sSlashAttack.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sSlashAttack",
+    "path": "sprites/sSlashAttack/sSlashAttack.yy",
+  },
   "visible": true,
 }

@@ -1,5 +1,6 @@
-if oPlayer.cooldown > 1 {
+if oPlayer.attackStart {
 	image_alpha = 1;
+	cooldown = 24;
 	if oPlayer.face == 0 {
 		sprite_index = sSlashAttackReversed;
 		image_index = oPlayer.image_index;
@@ -29,4 +30,6 @@ if oPlayer.cooldown > 1 {
 		image_angle = 0;
 		//draw_sprite_ext( sSlashAttack, image_index, x + sprite_width/4, y + centerYOffset, 1, 1, 0, c_white, 0.5  )
 	}
-} else {image_alpha = 0;}
+} 
+cooldown -= 1;
+if cooldown <= 0 {image_alpha = 0;}
