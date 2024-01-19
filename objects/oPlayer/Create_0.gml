@@ -6,6 +6,7 @@ yspd = 0;
 cooldown = 0;
 spreadOn = false;
 attackStart = false;
+attackFace = 3;
 
 //sprite control
 #region

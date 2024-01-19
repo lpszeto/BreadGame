@@ -76,11 +76,13 @@ attackKey = mouse_check_button(mb_left);
 	
 	//set the player sprite
 	if cooldown <= 0 {
+		attackFace = face;
 		if attackKey {
+			//attackFace = face;
 			attackStart = true;
 			currentSprite = spriteAttack;
 			mask_index = sprite[3];
-			sprite_index = currentSprite[face];
+			sprite_index = currentSprite[attackFace];
 			image_index = 0;
 		
 			// Cooldown prevents animations from occuring until value reaches 0
