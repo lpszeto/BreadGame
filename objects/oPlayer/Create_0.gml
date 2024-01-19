@@ -31,16 +31,5 @@ spriteAttack[1] = sPlayerAttackBackLeft;
 spriteAttack[2] = sPlayerAttackLeft;
 spriteAttack[3] = sPlayerAttackRight;
 
-spriteSpread[2] = sSpreadLeft;
-spriteSpread[3] = sSpreadRight;
-
-spriteSpreadWalk[2] = sSpreadWalkLeft;
-spriteSpreadWalk[3] = sSpreadWalkRight;
-
-spriteSpreadAttack[2] = sSpreadAttackLeft;
-spriteSpreadAttack[3] = sSpreadAttackRight;
-
-spriteToDraw = sSpreadRight;
-
 currentSprite = sprite;
 sprite_index = currentSprite[face];

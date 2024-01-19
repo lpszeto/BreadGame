@@ -17,7 +17,8 @@ downKey = keyboard_check(ord("S"));
 	moveDir = point_direction(0,0,_horizKey,_vertKey);
 	
 	//get x and y speed
-	var _spd = 0;
+	// Also handles diagonal movement clamping
+	var _spd = 0;	
 	var _inputlevel = point_distance(0,0,_horizKey,_vertKey);
 	_inputlevel = clamp(_inputlevel, 0 , 1 );
 	_spd = moveSpd * _inputlevel;
