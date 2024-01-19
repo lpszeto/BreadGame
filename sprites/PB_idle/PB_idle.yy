@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spreads",
-    "path": "folders/Spreads.yy",
+    "name": "Jam Sprites",
+    "path": "folders/Objects/Jams/Jam Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
