@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Spread","order":32,"path":"folders/Spread.yy",},
-    {"name":"Scripts","order":33,"path":"folders/Scripts.yy",},
     {"name":"Objects","order":34,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":33,"path":"folders/Scripts.yy",},
+    {"name":"Spread","order":32,"path":"folders/Spread.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerAttackBackLeft","order":10,"path":"sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy",},
