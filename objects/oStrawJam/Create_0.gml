@@ -1,4 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+sprite[0] = strawberry_idle;
+sprite[1] = jar_break;
