@@ -1,10 +1,11 @@
-
+attackStart = false;
 
 //get inputs
 rightKey = keyboard_check(ord("D"));
 leftKey = keyboard_check(ord("A"));
 upKey = keyboard_check(ord("W"));
 downKey = keyboard_check(ord("S"));
+attackKey = mouse_check_button(mb_left);
 
 // Define coordinate locations
 
@@ -41,19 +42,22 @@ downKey = keyboard_check(ord("S"));
 	x += xspd;
 	y += yspd;
 	
+	x=clamp(x, sprite_width/2, room_width-sprite_width/2);
+	y=clamp(y, sprite_height, room_height);
+	
 	//depth
 	depth = 1-bbox_bottom;
 	
 #endregion
 
-//player aiming
+//sprite control
+#region
+	//player aiming
 	centerY = y + centerYOffset;
 	
 	//aim
 	aimDir = point_direction( x, centerY, mouse_x, mouse_y );
-
-//sprite control
-#region
+	
 	//make sure player is facing direction
 	face = round( (aimDir-45)/90 )
 	if face >= 4 { face = 0; }
@@ -70,7 +74,8 @@ downKey = keyboard_check(ord("S"));
 	}
 	
 	//set the player sprite
-	if mouse_check_button(mb_left) and cooldown <= 0 {
+	if attackKey and cooldown <= 0 {
+		attackStart = true;
 		currentSprite = spriteAttack;
 		mask_index = sprite[3];
 		sprite_index = currentSprite[face];
@@ -83,6 +88,12 @@ downKey = keyboard_check(ord("S"));
 		sprite_index = currentSprite[face];
 	}
 #endregion
+
+//attack animation
+/*
+	if attackStart {
+		instance_create_depth( x, centerY, depth-100, slashAttack );
+	}*/
 
 if mouse_check_button_pressed(mb_right){ 
 	spreadOn = !spreadOn;

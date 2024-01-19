@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "BreadGame",
-    "path": "BreadGame.yyp",
+    "name": "Walls",
+    "path": "folders/Objects/Walls.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

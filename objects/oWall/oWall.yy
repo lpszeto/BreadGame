@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BreadGame",
-    "path": "BreadGame.yyp",
+    "name": "Walls",
+    "path": "folders/Objects/Walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
