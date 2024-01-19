@@ -33,5 +33,6 @@
     {"name":"rmInitialize","order":1,"path":"rooms/rmInitialize/rmInitialize.yy",},
     {"name":"sPlayerLeft","order":2,"path":"sprites/sPlayerLeft/sPlayerLeft.yy",},
     {"name":"sPlayerAttackBackRight","order":9,"path":"sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy",},
+    {"name":"sSlashAttackReversed","order":37,"path":"sprites/sSlashAttackReversed/sSlashAttackReversed.yy",},
   ],
 }

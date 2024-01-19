@@ -49,5 +49,5 @@ attackStart = false;
 #endregion
 
 //weapon info
-	slashAttack = oSlashAttack;
+	slashAttack = sSlashAttack;
 

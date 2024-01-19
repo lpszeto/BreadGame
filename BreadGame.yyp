@@ -55,6 +55,7 @@
     {"id":{"name":"sPlayerLeft","path":"sprites/sPlayerLeft/sPlayerLeft.yy",},},
     {"id":{"name":"oSolidWall","path":"objects/oSolidWall/oSolidWall.yy",},},
     {"id":{"name":"sPlayerAttackBackRight","path":"sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy",},},
+    {"id":{"name":"sSlashAttackReversed","path":"sprites/sSlashAttackReversed/sSlashAttackReversed.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
