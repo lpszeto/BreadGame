@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "avo_jam",
+  "name": "oStrawJam",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "Jams",
     "path": "folders/Objects/Jams.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "FatherJam",
+    "path": "objects/FatherJam/FatherJam.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "strawberry_idle",
+    "path": "sprites/strawberry_idle/strawberry_idle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

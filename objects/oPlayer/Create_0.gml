@@ -8,6 +8,8 @@ spreadOn = false;
 attackStart = false;
 attackFace = 3;
 
+jar_break_bool = false;
+
 //sprite control
 #region
 	centerYOffset = -sprite_height/2;
