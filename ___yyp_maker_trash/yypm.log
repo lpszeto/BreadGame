@@ -1,0 +1,1201 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[19-01-2024 17:19:15] Initialized GameMaker Project: BreadGame.yyp
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/animcurves
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/extensions
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/fonts
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/notes
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects
+[19-01-2024 17:19:15] Checking oWall
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oWall
+[19-01-2024 17:19:15] Checking oStrawJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oStrawJam
+[19-01-2024 17:19:15] Checking oSolidWall
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSolidWall
+[19-01-2024 17:19:15] Checking oSlash
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSlash
+[19-01-2024 17:19:15] Checking oPlayer
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPlayer
+[19-01-2024 17:19:15] Checking oPBJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPBJam
+[19-01-2024 17:19:15] Checking oHoneyJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oHoneyJam
+[19-01-2024 17:19:15] Checking oChocoJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oChocoJam
+[19-01-2024 17:19:15] Checking oCamera
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oCamera
+[19-01-2024 17:19:15] Checking oBlueJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oBlueJam
+[19-01-2024 17:19:15] Checking oAvoJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oAvoJam
+[19-01-2024 17:19:15] Checking FatherJam
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/FatherJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/FatherJam
+[19-01-2024 17:19:15] Checking Other_7.gml
+[19-01-2024 17:19:15] Checking FatherJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/FatherJam/FatherJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/FatherJam/FatherJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/FatherJam/FatherJam.yy"
+[19-01-2024 17:19:15] Found Object: FatherJam
+[19-01-2024 17:19:15] Checking Create_0.gml
+[19-01-2024 17:19:15] Checking Collision_oPlayer.gml
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oAvoJam
+[19-01-2024 17:19:15] Checking oAvoJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oAvoJam/oAvoJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oAvoJam/oAvoJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oAvoJam/oAvoJam.yy"
+[19-01-2024 17:19:15] Found Object: oAvoJam
+[19-01-2024 17:19:15] Checking Collision_oPlayer.gml
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oBlueJam
+[19-01-2024 17:19:15] Checking oBlueJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oBlueJam/oBlueJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oBlueJam/oBlueJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oBlueJam/oBlueJam.yy"
+[19-01-2024 17:19:15] Found Object: oBlueJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oCamera
+[19-01-2024 17:19:15] Checking Step_2.gml
+[19-01-2024 17:19:15] Checking oCamera.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oCamera/oCamera.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oCamera/oCamera.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/background" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oCamera/oCamera.yy"
+[19-01-2024 17:19:15] Found Object: oCamera
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oChocoJam
+[19-01-2024 17:19:15] Checking oChocoJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oChocoJam/oChocoJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oChocoJam/oChocoJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oChocoJam/oChocoJam.yy"
+[19-01-2024 17:19:15] Found Object: oChocoJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oHoneyJam
+[19-01-2024 17:19:15] Checking oHoneyJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oHoneyJam/oHoneyJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oHoneyJam/oHoneyJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oHoneyJam/oHoneyJam.yy"
+[19-01-2024 17:19:15] Found Object: oHoneyJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPBJam
+[19-01-2024 17:19:15] Checking oPBJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPBJam/oPBJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPBJam/oPBJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPBJam/oPBJam.yy"
+[19-01-2024 17:19:15] Found Object: oPBJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPlayer
+[19-01-2024 17:19:15] Checking Step_0.gml
+[19-01-2024 17:19:15] Checking oPlayer.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPlayer/oPlayer.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPlayer/oPlayer.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oPlayer/oPlayer.yy"
+[19-01-2024 17:19:15] Found Object: oPlayer
+[19-01-2024 17:19:15] Checking Draw_0.gml
+[19-01-2024 17:19:15] Checking Create_0.gml
+[19-01-2024 17:19:15] Checking Collision_oStrawJam.gml
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSlash
+[19-01-2024 17:19:15] Checking Step_0.gml
+[19-01-2024 17:19:15] Checking oSlash.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSlash/oSlash.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSlash/oSlash.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Attack" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSlash/oSlash.yy"
+[19-01-2024 17:19:15] Found Object: oSlash
+[19-01-2024 17:19:15] Checking Create_0.gml
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSolidWall
+[19-01-2024 17:19:15] Checking oSolidWall.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSolidWall/oSolidWall.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSolidWall/oSolidWall.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Walls" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oSolidWall/oSolidWall.yy"
+[19-01-2024 17:19:15] Found Object: oSolidWall
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oStrawJam
+[19-01-2024 17:19:15] Checking oStrawJam.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oStrawJam/oStrawJam.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oStrawJam/oStrawJam.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oStrawJam/oStrawJam.yy"
+[19-01-2024 17:19:15] Found Object: oStrawJam
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oWall
+[19-01-2024 17:19:15] Checking oWall.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oWall/oWall.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oWall/oWall.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Walls" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/objects/oWall/oWall.yy"
+[19-01-2024 17:19:15] Found Object: oWall
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options
+[19-01-2024 17:19:15] Checking windows
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/windows
+[19-01-2024 17:19:15] Checking tvos
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/tvos
+[19-01-2024 17:19:15] Checking operagx
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/operagx
+[19-01-2024 17:19:15] Checking main
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/main
+[19-01-2024 17:19:15] Checking mac
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/mac
+[19-01-2024 17:19:15] Checking linux
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/linux
+[19-01-2024 17:19:15] Checking ios
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/ios
+[19-01-2024 17:19:15] Checking html5
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/html5
+[19-01-2024 17:19:15] Checking extensions
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/extensions
+[19-01-2024 17:19:15] Checking android
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/android
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/android
+[19-01-2024 17:19:15] Checking options_android.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/android/options_android.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/android/options_android.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/extensions
+[19-01-2024 17:19:15] Checking Extension1.json
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/html5
+[19-01-2024 17:19:15] Checking options_html5.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/html5/options_html5.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/html5/options_html5.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/ios
+[19-01-2024 17:19:15] Checking options_ios.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/ios/options_ios.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/ios/options_ios.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/linux
+[19-01-2024 17:19:15] Checking options_linux.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/linux/options_linux.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/linux/options_linux.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/mac
+[19-01-2024 17:19:15] Checking options_mac.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/mac/options_mac.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/mac/options_mac.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/main
+[19-01-2024 17:19:15] Checking options_main.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/main/options_main.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/main/options_main.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/operagx
+[19-01-2024 17:19:15] Checking options_operagx.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/operagx/options_operagx.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/operagx/options_operagx.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/tvos
+[19-01-2024 17:19:15] Checking options_tvos.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/tvos/options_tvos.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/tvos/options_tvos.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/windows
+[19-01-2024 17:19:15] Checking options_windows.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/windows/options_windows.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/options/windows/options_windows.yy
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/paths
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms
+[19-01-2024 17:19:15] Checking Room1
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/Room1
+[19-01-2024 17:19:15] Checking rmInitialize
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/rmInitialize
+[19-01-2024 17:19:15] Checking kitchen_floor
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/kitchen_floor
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/kitchen_floor
+[19-01-2024 17:19:15] Checking kitchen_floor.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/kitchen_floor/kitchen_floor.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/kitchen_floor/kitchen_floor.yy
+[19-01-2024 17:19:15] Par: "folders/Rooms" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/kitchen_floor/kitchen_floor.yy"
+[19-01-2024 17:19:15] Found Room: kitchen_floor
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/rmInitialize
+[19-01-2024 17:19:15] Checking RoomCreationCode.gml
+[19-01-2024 17:19:15] Checking rmInitialize.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/rmInitialize/rmInitialize.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/rmInitialize/rmInitialize.yy
+[19-01-2024 17:19:15] Par: "folders/Rooms" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/rmInitialize/rmInitialize.yy"
+[19-01-2024 17:19:15] Found Room: rmInitialize
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/Room1
+[19-01-2024 17:19:15] Checking Room1.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/Room1/Room1.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/Room1/Room1.yy
+[19-01-2024 17:19:15] Par: "folders/Rooms" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/rooms/Room1/Room1.yy"
+[19-01-2024 17:19:15] Found Room: Room1
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/scripts
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sequences
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/shaders
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sounds
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites
+[19-01-2024 17:19:15] Checking sWall
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall
+[19-01-2024 17:19:15] Checking strawberry_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle
+[19-01-2024 17:19:15] Checking sSpreadWalkRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight
+[19-01-2024 17:19:15] Checking sSpreadWalkLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft
+[19-01-2024 17:19:15] Checking sSpreadRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight
+[19-01-2024 17:19:15] Checking sSpreadLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft
+[19-01-2024 17:19:15] Checking sSpreadAttackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight
+[19-01-2024 17:19:15] Checking sSpreadAttackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft
+[19-01-2024 17:19:15] Checking sSolidWall
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall
+[19-01-2024 17:19:15] Checking sSlashRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight
+[19-01-2024 17:19:15] Checking sSlashLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft
+[19-01-2024 17:19:15] Checking sSlashBackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight
+[19-01-2024 17:19:15] Checking sSlashBackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft
+[19-01-2024 17:19:15] Checking sPlayerWalkRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight
+[19-01-2024 17:19:15] Checking sPlayerWalkLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft
+[19-01-2024 17:19:15] Checking sPlayerWalkBackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight
+[19-01-2024 17:19:15] Checking sPlayerWalkBackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft
+[19-01-2024 17:19:15] Checking sPlayerRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight
+[19-01-2024 17:19:15] Checking sPlayerLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft
+[19-01-2024 17:19:15] Checking sPlayerBackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight
+[19-01-2024 17:19:15] Checking sPlayerBackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft
+[19-01-2024 17:19:15] Checking sPlayerAttackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight
+[19-01-2024 17:19:15] Checking sPlayerAttackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft
+[19-01-2024 17:19:15] Checking sPlayerAttackBackRight
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight
+[19-01-2024 17:19:15] Checking sPlayerAttackBackLeft
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft
+[19-01-2024 17:19:15] Checking PB_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle
+[19-01-2024 17:19:15] Checking jar_break
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break
+[19-01-2024 17:19:15] Checking honey_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle
+[19-01-2024 17:19:15] Checking chocolate_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle
+[19-01-2024 17:19:15] Checking blueberry_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle
+[19-01-2024 17:19:15] Checking bg_placeholder
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder
+[19-01-2024 17:19:15] Checking avo_break
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break
+[19-01-2024 17:19:15] Checking avocado_idle
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers
+[19-01-2024 17:19:15] Checking avocado_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/avocado_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/avocado_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/avocado_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: avocado_idle
+[19-01-2024 17:19:15] Checking 5c6012d2-cb89-40e2-9a7c-6509000e7bb0.png
+[19-01-2024 17:19:15] Checking 0b6ecb71-cbd7-4536-88ed-84eb6c926437.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers
+[19-01-2024 17:19:15] Checking 5c6012d2-cb89-40e2-9a7c-6509000e7bb0
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers/5c6012d2-cb89-40e2-9a7c-6509000e7bb0
+[19-01-2024 17:19:15] Checking 0b6ecb71-cbd7-4536-88ed-84eb6c926437
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers/0b6ecb71-cbd7-4536-88ed-84eb6c926437
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers/0b6ecb71-cbd7-4536-88ed-84eb6c926437
+[19-01-2024 17:19:15] Checking 9f00ed3b-77b9-4518-af16-2fe13284e875.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avocado_idle/layers/5c6012d2-cb89-40e2-9a7c-6509000e7bb0
+[19-01-2024 17:19:15] Checking 9f00ed3b-77b9-4518-af16-2fe13284e875.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers
+[19-01-2024 17:19:15] Checking avo_break.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/avo_break.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/avo_break.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/avo_break.yy"
+[19-01-2024 17:19:15] Found Sprite: avo_break
+[19-01-2024 17:19:15] Checking a396370e-4e6e-4c74-9971-77a5d0cbd361.png
+[19-01-2024 17:19:15] Checking 8508b4ff-b5b7-4f73-bf8e-aab78643ea32.png
+[19-01-2024 17:19:15] Checking 59bd13db-2ab3-42dd-83df-dd0e3bc74868.png
+[19-01-2024 17:19:15] Checking 272c1c8f-7e6e-4e10-8954-306574876806.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers
+[19-01-2024 17:19:15] Checking a396370e-4e6e-4c74-9971-77a5d0cbd361
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/a396370e-4e6e-4c74-9971-77a5d0cbd361
+[19-01-2024 17:19:15] Checking 8508b4ff-b5b7-4f73-bf8e-aab78643ea32
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/8508b4ff-b5b7-4f73-bf8e-aab78643ea32
+[19-01-2024 17:19:15] Checking 59bd13db-2ab3-42dd-83df-dd0e3bc74868
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/59bd13db-2ab3-42dd-83df-dd0e3bc74868
+[19-01-2024 17:19:15] Checking 272c1c8f-7e6e-4e10-8954-306574876806
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/272c1c8f-7e6e-4e10-8954-306574876806
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/272c1c8f-7e6e-4e10-8954-306574876806
+[19-01-2024 17:19:15] Checking 716f32e2-ecca-4433-bb5b-15397b261ecb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/59bd13db-2ab3-42dd-83df-dd0e3bc74868
+[19-01-2024 17:19:15] Checking 716f32e2-ecca-4433-bb5b-15397b261ecb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/8508b4ff-b5b7-4f73-bf8e-aab78643ea32
+[19-01-2024 17:19:15] Checking 716f32e2-ecca-4433-bb5b-15397b261ecb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/avo_break/layers/a396370e-4e6e-4c74-9971-77a5d0cbd361
+[19-01-2024 17:19:15] Checking 716f32e2-ecca-4433-bb5b-15397b261ecb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/layers
+[19-01-2024 17:19:15] Checking bg_placeholder.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/bg_placeholder.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/bg_placeholder.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/background" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/bg_placeholder.yy"
+[19-01-2024 17:19:15] Found Sprite: bg_placeholder
+[19-01-2024 17:19:15] Checking 21da89c7-c71b-4260-8838-05cbde4e11a2.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/layers
+[19-01-2024 17:19:15] Checking 21da89c7-c71b-4260-8838-05cbde4e11a2
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/layers/21da89c7-c71b-4260-8838-05cbde4e11a2
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/bg_placeholder/layers/21da89c7-c71b-4260-8838-05cbde4e11a2
+[19-01-2024 17:19:15] Checking d6fad08f-12bd-4860-819b-547a3757dfad.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers
+[19-01-2024 17:19:15] Checking c5f82739-aca5-48de-9e63-426ca55b7810.png
+[19-01-2024 17:19:15] Checking blueberry_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/blueberry_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/blueberry_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/blueberry_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: blueberry_idle
+[19-01-2024 17:19:15] Checking 7baee9fd-6133-45db-9f5e-36f8e9d84c45.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers
+[19-01-2024 17:19:15] Checking c5f82739-aca5-48de-9e63-426ca55b7810
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers/c5f82739-aca5-48de-9e63-426ca55b7810
+[19-01-2024 17:19:15] Checking 7baee9fd-6133-45db-9f5e-36f8e9d84c45
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers/7baee9fd-6133-45db-9f5e-36f8e9d84c45
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers/7baee9fd-6133-45db-9f5e-36f8e9d84c45
+[19-01-2024 17:19:15] Checking 27c9f444-93dc-4ada-9299-0af00c2e1a48.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/blueberry_idle/layers/c5f82739-aca5-48de-9e63-426ca55b7810
+[19-01-2024 17:19:15] Checking 27c9f444-93dc-4ada-9299-0af00c2e1a48.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers
+[19-01-2024 17:19:15] Checking chocolate_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/chocolate_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/chocolate_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/chocolate_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: chocolate_idle
+[19-01-2024 17:19:15] Checking 9870b0ee-e58f-4d8c-be3b-316238bbf584.png
+[19-01-2024 17:19:15] Checking 6e5f1ad2-a3ff-4b67-96fc-9bf0693992e4.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers
+[19-01-2024 17:19:15] Checking 9870b0ee-e58f-4d8c-be3b-316238bbf584
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers/9870b0ee-e58f-4d8c-be3b-316238bbf584
+[19-01-2024 17:19:15] Checking 6e5f1ad2-a3ff-4b67-96fc-9bf0693992e4
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers/6e5f1ad2-a3ff-4b67-96fc-9bf0693992e4
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers/6e5f1ad2-a3ff-4b67-96fc-9bf0693992e4
+[19-01-2024 17:19:15] Checking 01bb6a90-2058-4c31-94ad-4d10a77e0227.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/chocolate_idle/layers/9870b0ee-e58f-4d8c-be3b-316238bbf584
+[19-01-2024 17:19:15] Checking 01bb6a90-2058-4c31-94ad-4d10a77e0227.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers
+[19-01-2024 17:19:15] Checking honey_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/honey_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/honey_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/honey_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: honey_idle
+[19-01-2024 17:19:15] Checking b32235c2-7666-43cc-a1f1-50079e69e50d.png
+[19-01-2024 17:19:15] Checking 96dea810-b24d-4c8d-8f91-572e872c0aae.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers
+[19-01-2024 17:19:15] Checking b32235c2-7666-43cc-a1f1-50079e69e50d
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers/b32235c2-7666-43cc-a1f1-50079e69e50d
+[19-01-2024 17:19:15] Checking 96dea810-b24d-4c8d-8f91-572e872c0aae
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers/96dea810-b24d-4c8d-8f91-572e872c0aae
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers/96dea810-b24d-4c8d-8f91-572e872c0aae
+[19-01-2024 17:19:15] Checking 67a82701-d91c-4095-b44b-de1a6350e617.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/honey_idle/layers/b32235c2-7666-43cc-a1f1-50079e69e50d
+[19-01-2024 17:19:15] Checking 67a82701-d91c-4095-b44b-de1a6350e617.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers
+[19-01-2024 17:19:15] Checking jar_break.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/jar_break.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/jar_break.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/jar_break.yy"
+[19-01-2024 17:19:15] Found Sprite: jar_break
+[19-01-2024 17:19:15] Checking b0754c2f-9ab5-45b3-9b52-14ec2da8dc29.png
+[19-01-2024 17:19:15] Checking 2d544bc8-e7a4-4594-a739-44a04cb1a6f3.png
+[19-01-2024 17:19:15] Checking 2af98245-bb78-4aee-a318-b36510a06215.png
+[19-01-2024 17:19:15] Checking 04afe2c1-2596-4fb3-90f2-a8d34eb2b338.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers
+[19-01-2024 17:19:15] Checking b0754c2f-9ab5-45b3-9b52-14ec2da8dc29
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/b0754c2f-9ab5-45b3-9b52-14ec2da8dc29
+[19-01-2024 17:19:15] Checking 2d544bc8-e7a4-4594-a739-44a04cb1a6f3
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/2d544bc8-e7a4-4594-a739-44a04cb1a6f3
+[19-01-2024 17:19:15] Checking 2af98245-bb78-4aee-a318-b36510a06215
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/2af98245-bb78-4aee-a318-b36510a06215
+[19-01-2024 17:19:15] Checking 04afe2c1-2596-4fb3-90f2-a8d34eb2b338
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/04afe2c1-2596-4fb3-90f2-a8d34eb2b338
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/04afe2c1-2596-4fb3-90f2-a8d34eb2b338
+[19-01-2024 17:19:15] Checking 64ce7049-11aa-42a3-bf2a-16085d76b44c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/2af98245-bb78-4aee-a318-b36510a06215
+[19-01-2024 17:19:15] Checking 64ce7049-11aa-42a3-bf2a-16085d76b44c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/2d544bc8-e7a4-4594-a739-44a04cb1a6f3
+[19-01-2024 17:19:15] Checking 64ce7049-11aa-42a3-bf2a-16085d76b44c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/jar_break/layers/b0754c2f-9ab5-45b3-9b52-14ec2da8dc29
+[19-01-2024 17:19:15] Checking 64ce7049-11aa-42a3-bf2a-16085d76b44c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle
+[19-01-2024 17:19:15] Checking PB_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/PB_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/PB_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/PB_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: PB_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers
+[19-01-2024 17:19:15] Checking 6cd922d7-d22e-46bf-8016-e065f003ffb6.png
+[19-01-2024 17:19:15] Checking 23ef0211-a97a-431a-9695-d17bc0fe276b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers
+[19-01-2024 17:19:15] Checking 6cd922d7-d22e-46bf-8016-e065f003ffb6
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers/6cd922d7-d22e-46bf-8016-e065f003ffb6
+[19-01-2024 17:19:15] Checking 23ef0211-a97a-431a-9695-d17bc0fe276b
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers/23ef0211-a97a-431a-9695-d17bc0fe276b
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers/23ef0211-a97a-431a-9695-d17bc0fe276b
+[19-01-2024 17:19:15] Checking 4115acc5-d106-4dc7-85a3-4bf8befc3cde.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/PB_idle/layers/6cd922d7-d22e-46bf-8016-e065f003ffb6
+[19-01-2024 17:19:15] Checking 4115acc5-d106-4dc7-85a3-4bf8befc3cde.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft
+[19-01-2024 17:19:15] Checking sPlayerAttackBackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/sPlayerAttackBackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerAttackBackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers
+[19-01-2024 17:19:15] Checking ef485c42-ad51-41b1-abe8-f06fff548684.png
+[19-01-2024 17:19:15] Checking df4dbb5d-8156-4b6e-8eea-2284e7b0f369.png
+[19-01-2024 17:19:15] Checking 8a8a797f-c9c3-446f-bf56-71d571e2138a.png
+[19-01-2024 17:19:15] Checking 79113220-307a-431b-8629-69db2acbddf3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers
+[19-01-2024 17:19:15] Checking ef485c42-ad51-41b1-abe8-f06fff548684
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/ef485c42-ad51-41b1-abe8-f06fff548684
+[19-01-2024 17:19:15] Checking df4dbb5d-8156-4b6e-8eea-2284e7b0f369
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/df4dbb5d-8156-4b6e-8eea-2284e7b0f369
+[19-01-2024 17:19:15] Checking 8a8a797f-c9c3-446f-bf56-71d571e2138a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/8a8a797f-c9c3-446f-bf56-71d571e2138a
+[19-01-2024 17:19:15] Checking 79113220-307a-431b-8629-69db2acbddf3
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/79113220-307a-431b-8629-69db2acbddf3
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/79113220-307a-431b-8629-69db2acbddf3
+[19-01-2024 17:19:15] Checking 93217192-d6c6-4d7e-a48c-32b3c3a1ab4e.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/8a8a797f-c9c3-446f-bf56-71d571e2138a
+[19-01-2024 17:19:15] Checking 93217192-d6c6-4d7e-a48c-32b3c3a1ab4e.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/df4dbb5d-8156-4b6e-8eea-2284e7b0f369
+[19-01-2024 17:19:15] Checking 93217192-d6c6-4d7e-a48c-32b3c3a1ab4e.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackLeft/layers/ef485c42-ad51-41b1-abe8-f06fff548684
+[19-01-2024 17:19:15] Checking 93217192-d6c6-4d7e-a48c-32b3c3a1ab4e.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight
+[19-01-2024 17:19:15] Checking sPlayerAttackBackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/sPlayerAttackBackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerAttackBackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers
+[19-01-2024 17:19:15] Checking a3f88bb5-6114-4eb3-b03b-d7666f96931c.png
+[19-01-2024 17:19:15] Checking 98f9005d-d904-4032-a152-1c2f8f223ef5.png
+[19-01-2024 17:19:15] Checking 770801ba-9f3a-4fbf-9761-085b9c0e5a58.png
+[19-01-2024 17:19:15] Checking 3e91dd4a-4030-4ebe-a51d-9daf7b1d5f5b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers
+[19-01-2024 17:19:15] Checking a3f88bb5-6114-4eb3-b03b-d7666f96931c
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/a3f88bb5-6114-4eb3-b03b-d7666f96931c
+[19-01-2024 17:19:15] Checking 98f9005d-d904-4032-a152-1c2f8f223ef5
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/98f9005d-d904-4032-a152-1c2f8f223ef5
+[19-01-2024 17:19:15] Checking 770801ba-9f3a-4fbf-9761-085b9c0e5a58
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/770801ba-9f3a-4fbf-9761-085b9c0e5a58
+[19-01-2024 17:19:15] Checking 3e91dd4a-4030-4ebe-a51d-9daf7b1d5f5b
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/3e91dd4a-4030-4ebe-a51d-9daf7b1d5f5b
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/3e91dd4a-4030-4ebe-a51d-9daf7b1d5f5b
+[19-01-2024 17:19:15] Checking ab97ebd6-6a7e-44a5-b61d-694c9f6a7ef3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/770801ba-9f3a-4fbf-9761-085b9c0e5a58
+[19-01-2024 17:19:15] Checking ab97ebd6-6a7e-44a5-b61d-694c9f6a7ef3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/98f9005d-d904-4032-a152-1c2f8f223ef5
+[19-01-2024 17:19:15] Checking ab97ebd6-6a7e-44a5-b61d-694c9f6a7ef3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackBackRight/layers/a3f88bb5-6114-4eb3-b03b-d7666f96931c
+[19-01-2024 17:19:15] Checking ab97ebd6-6a7e-44a5-b61d-694c9f6a7ef3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft
+[19-01-2024 17:19:15] Checking sPlayerAttackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/sPlayerAttackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/sPlayerAttackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/sPlayerAttackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerAttackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers
+[19-01-2024 17:19:15] Checking eae0687f-c633-491d-a5a3-03fd7727a511.png
+[19-01-2024 17:19:15] Checking b5022a18-db68-4d57-87cf-d6ada16eae1e.png
+[19-01-2024 17:19:15] Checking 3710817c-7a3d-4920-be18-fa7310b3c8c4.png
+[19-01-2024 17:19:15] Checking 16d6598e-9f48-489f-ad45-93fc6bb06d3f.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers
+[19-01-2024 17:19:15] Checking eae0687f-c633-491d-a5a3-03fd7727a511
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/eae0687f-c633-491d-a5a3-03fd7727a511
+[19-01-2024 17:19:15] Checking b5022a18-db68-4d57-87cf-d6ada16eae1e
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/b5022a18-db68-4d57-87cf-d6ada16eae1e
+[19-01-2024 17:19:15] Checking 3710817c-7a3d-4920-be18-fa7310b3c8c4
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/3710817c-7a3d-4920-be18-fa7310b3c8c4
+[19-01-2024 17:19:15] Checking 16d6598e-9f48-489f-ad45-93fc6bb06d3f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/16d6598e-9f48-489f-ad45-93fc6bb06d3f
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/16d6598e-9f48-489f-ad45-93fc6bb06d3f
+[19-01-2024 17:19:15] Checking 36672324-8535-4c8f-a9a7-2123e7012b8b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/3710817c-7a3d-4920-be18-fa7310b3c8c4
+[19-01-2024 17:19:15] Checking 36672324-8535-4c8f-a9a7-2123e7012b8b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/b5022a18-db68-4d57-87cf-d6ada16eae1e
+[19-01-2024 17:19:15] Checking 36672324-8535-4c8f-a9a7-2123e7012b8b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackLeft/layers/eae0687f-c633-491d-a5a3-03fd7727a511
+[19-01-2024 17:19:15] Checking 36672324-8535-4c8f-a9a7-2123e7012b8b.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight
+[19-01-2024 17:19:15] Checking sPlayerAttackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/sPlayerAttackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/sPlayerAttackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/sPlayerAttackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerAttackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers
+[19-01-2024 17:19:15] Checking d7b9d00b-6d99-4a30-8f65-58bbc7866696.png
+[19-01-2024 17:19:15] Checking 764f90de-714a-44c1-ba9d-009ab3e9ef15.png
+[19-01-2024 17:19:15] Checking 1a22eb1a-f383-498d-a023-07e36f89b238.png
+[19-01-2024 17:19:15] Checking 0abfff15-0726-4289-ada5-186595f079ba.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers
+[19-01-2024 17:19:15] Checking d7b9d00b-6d99-4a30-8f65-58bbc7866696
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/d7b9d00b-6d99-4a30-8f65-58bbc7866696
+[19-01-2024 17:19:15] Checking 764f90de-714a-44c1-ba9d-009ab3e9ef15
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/764f90de-714a-44c1-ba9d-009ab3e9ef15
+[19-01-2024 17:19:15] Checking 1a22eb1a-f383-498d-a023-07e36f89b238
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/1a22eb1a-f383-498d-a023-07e36f89b238
+[19-01-2024 17:19:15] Checking 0abfff15-0726-4289-ada5-186595f079ba
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/0abfff15-0726-4289-ada5-186595f079ba
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/0abfff15-0726-4289-ada5-186595f079ba
+[19-01-2024 17:19:15] Checking 316656c8-4763-477f-8a71-7e84dbb8da61.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/1a22eb1a-f383-498d-a023-07e36f89b238
+[19-01-2024 17:19:15] Checking 316656c8-4763-477f-8a71-7e84dbb8da61.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/764f90de-714a-44c1-ba9d-009ab3e9ef15
+[19-01-2024 17:19:15] Checking 316656c8-4763-477f-8a71-7e84dbb8da61.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerAttackRight/layers/d7b9d00b-6d99-4a30-8f65-58bbc7866696
+[19-01-2024 17:19:15] Checking 316656c8-4763-477f-8a71-7e84dbb8da61.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft
+[19-01-2024 17:19:15] Checking sPlayerBackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/sPlayerBackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/sPlayerBackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/sPlayerBackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerBackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers
+[19-01-2024 17:19:15] Checking d8664e32-6d2c-4954-ad12-7b9b0f433296.png
+[19-01-2024 17:19:15] Checking 13c95845-ab90-41e9-85c7-71ae1661b7f7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers
+[19-01-2024 17:19:15] Checking d8664e32-6d2c-4954-ad12-7b9b0f433296
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers/d8664e32-6d2c-4954-ad12-7b9b0f433296
+[19-01-2024 17:19:15] Checking 13c95845-ab90-41e9-85c7-71ae1661b7f7
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers/13c95845-ab90-41e9-85c7-71ae1661b7f7
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers/13c95845-ab90-41e9-85c7-71ae1661b7f7
+[19-01-2024 17:19:15] Checking e87bf85c-4f14-4712-85bd-0f37b129226c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackLeft/layers/d8664e32-6d2c-4954-ad12-7b9b0f433296
+[19-01-2024 17:19:15] Checking e87bf85c-4f14-4712-85bd-0f37b129226c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight
+[19-01-2024 17:19:15] Checking sPlayerBackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/sPlayerBackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/sPlayerBackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/sPlayerBackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerBackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers
+[19-01-2024 17:19:15] Checking 946c7a7d-bb95-4865-a336-30917f040d8c.png
+[19-01-2024 17:19:15] Checking 74007f15-7d30-4e42-92b6-588e83b12ca3.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers
+[19-01-2024 17:19:15] Checking 946c7a7d-bb95-4865-a336-30917f040d8c
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers/946c7a7d-bb95-4865-a336-30917f040d8c
+[19-01-2024 17:19:15] Checking 74007f15-7d30-4e42-92b6-588e83b12ca3
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers/74007f15-7d30-4e42-92b6-588e83b12ca3
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers/74007f15-7d30-4e42-92b6-588e83b12ca3
+[19-01-2024 17:19:15] Checking 84663936-9cd5-4a4e-834e-655b64da5aac.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerBackRight/layers/946c7a7d-bb95-4865-a336-30917f040d8c
+[19-01-2024 17:19:15] Checking 84663936-9cd5-4a4e-834e-655b64da5aac.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft
+[19-01-2024 17:19:15] Checking sPlayerLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/sPlayerLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/sPlayerLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/sPlayerLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers
+[19-01-2024 17:19:15] Checking ed842855-e627-4b73-904a-0f1991692baa.png
+[19-01-2024 17:19:15] Checking 91545cc0-5b93-4973-bf11-159f8dee8bb5.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers
+[19-01-2024 17:19:15] Checking ed842855-e627-4b73-904a-0f1991692baa
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers/ed842855-e627-4b73-904a-0f1991692baa
+[19-01-2024 17:19:15] Checking 91545cc0-5b93-4973-bf11-159f8dee8bb5
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers/91545cc0-5b93-4973-bf11-159f8dee8bb5
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers/91545cc0-5b93-4973-bf11-159f8dee8bb5
+[19-01-2024 17:19:15] Checking 136fdaa0-f4ee-4720-b041-624213421db9.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerLeft/layers/ed842855-e627-4b73-904a-0f1991692baa
+[19-01-2024 17:19:15] Checking 136fdaa0-f4ee-4720-b041-624213421db9.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight
+[19-01-2024 17:19:15] Checking sPlayerRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/sPlayerRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/sPlayerRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/sPlayerRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers
+[19-01-2024 17:19:15] Checking eaec9c3c-2308-4a8e-b5e2-ed84f9d5e8de.png
+[19-01-2024 17:19:15] Checking 5734936b-1bba-48a1-8032-4fcacc53f19a.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers
+[19-01-2024 17:19:15] Checking eaec9c3c-2308-4a8e-b5e2-ed84f9d5e8de
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers/eaec9c3c-2308-4a8e-b5e2-ed84f9d5e8de
+[19-01-2024 17:19:15] Checking 5734936b-1bba-48a1-8032-4fcacc53f19a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers/5734936b-1bba-48a1-8032-4fcacc53f19a
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers/5734936b-1bba-48a1-8032-4fcacc53f19a
+[19-01-2024 17:19:15] Checking ec83a7d4-953d-45d2-bc52-f8aa68bcdd96.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerRight/layers/eaec9c3c-2308-4a8e-b5e2-ed84f9d5e8de
+[19-01-2024 17:19:15] Checking ec83a7d4-953d-45d2-bc52-f8aa68bcdd96.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft
+[19-01-2024 17:19:15] Checking sPlayerWalkBackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/sPlayerWalkBackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerWalkBackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers
+[19-01-2024 17:19:15] Checking fa98969f-0671-41c8-b633-dfb1e03d9601.png
+[19-01-2024 17:19:15] Checking ea153a10-9b5f-4d67-bce0-ea1eaa78e68a.png
+[19-01-2024 17:19:15] Checking d75ccdb1-a576-437a-843b-1c0979b6e5bd.png
+[19-01-2024 17:19:15] Checking c13a0e75-7c35-41a7-852d-031db5cb2839.png
+[19-01-2024 17:19:15] Checking 6a9b9589-a5a5-417c-a165-f7d277e2d892.png
+[19-01-2024 17:19:15] Checking 493bc334-3f7f-4c5c-b472-c1739a2a44ce.png
+[19-01-2024 17:19:15] Checking 2c685107-22a6-4a6e-a9fb-079e1b8c7096.png
+[19-01-2024 17:19:15] Checking 10f82d59-782b-4bd7-a5e1-cddfe95c7fa7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers
+[19-01-2024 17:19:15] Checking fa98969f-0671-41c8-b633-dfb1e03d9601
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/fa98969f-0671-41c8-b633-dfb1e03d9601
+[19-01-2024 17:19:15] Checking ea153a10-9b5f-4d67-bce0-ea1eaa78e68a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/ea153a10-9b5f-4d67-bce0-ea1eaa78e68a
+[19-01-2024 17:19:15] Checking d75ccdb1-a576-437a-843b-1c0979b6e5bd
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/d75ccdb1-a576-437a-843b-1c0979b6e5bd
+[19-01-2024 17:19:15] Checking c13a0e75-7c35-41a7-852d-031db5cb2839
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/c13a0e75-7c35-41a7-852d-031db5cb2839
+[19-01-2024 17:19:15] Checking 6a9b9589-a5a5-417c-a165-f7d277e2d892
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/6a9b9589-a5a5-417c-a165-f7d277e2d892
+[19-01-2024 17:19:15] Checking 493bc334-3f7f-4c5c-b472-c1739a2a44ce
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/493bc334-3f7f-4c5c-b472-c1739a2a44ce
+[19-01-2024 17:19:15] Checking 2c685107-22a6-4a6e-a9fb-079e1b8c7096
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/2c685107-22a6-4a6e-a9fb-079e1b8c7096
+[19-01-2024 17:19:15] Checking 10f82d59-782b-4bd7-a5e1-cddfe95c7fa7
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/10f82d59-782b-4bd7-a5e1-cddfe95c7fa7
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/10f82d59-782b-4bd7-a5e1-cddfe95c7fa7
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/2c685107-22a6-4a6e-a9fb-079e1b8c7096
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/493bc334-3f7f-4c5c-b472-c1739a2a44ce
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/6a9b9589-a5a5-417c-a165-f7d277e2d892
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/c13a0e75-7c35-41a7-852d-031db5cb2839
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/d75ccdb1-a576-437a-843b-1c0979b6e5bd
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/ea153a10-9b5f-4d67-bce0-ea1eaa78e68a
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackLeft/layers/fa98969f-0671-41c8-b633-dfb1e03d9601
+[19-01-2024 17:19:15] Checking a00010e8-3944-4c77-a7c3-a0cb073bcb0c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight
+[19-01-2024 17:19:15] Checking sPlayerWalkBackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/sPlayerWalkBackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerWalkBackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers
+[19-01-2024 17:19:15] Checking f2f174dd-e4e8-464a-8c6e-9c8745987260.png
+[19-01-2024 17:19:15] Checking e5ed57e8-7b5b-46f2-b458-9a8a1a01fc36.png
+[19-01-2024 17:19:15] Checking e320d50d-2b80-41fc-96ce-ba37350d3be3.png
+[19-01-2024 17:19:15] Checking d3862c0c-3208-426e-9d99-b63f41ab7b4a.png
+[19-01-2024 17:19:15] Checking 95cd3a9e-d854-48c6-b568-002e83c3a044.png
+[19-01-2024 17:19:15] Checking 7bd6261c-ecb0-40ba-b743-c3d1e4df5fff.png
+[19-01-2024 17:19:15] Checking 52967031-f9b8-4bfd-978c-808c7f7a041f.png
+[19-01-2024 17:19:15] Checking 1f948595-a7a0-4a02-bcaa-8ff9cf0c7552.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers
+[19-01-2024 17:19:15] Checking f2f174dd-e4e8-464a-8c6e-9c8745987260
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/f2f174dd-e4e8-464a-8c6e-9c8745987260
+[19-01-2024 17:19:15] Checking e5ed57e8-7b5b-46f2-b458-9a8a1a01fc36
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/e5ed57e8-7b5b-46f2-b458-9a8a1a01fc36
+[19-01-2024 17:19:15] Checking e320d50d-2b80-41fc-96ce-ba37350d3be3
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/e320d50d-2b80-41fc-96ce-ba37350d3be3
+[19-01-2024 17:19:15] Checking d3862c0c-3208-426e-9d99-b63f41ab7b4a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/d3862c0c-3208-426e-9d99-b63f41ab7b4a
+[19-01-2024 17:19:15] Checking 95cd3a9e-d854-48c6-b568-002e83c3a044
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/95cd3a9e-d854-48c6-b568-002e83c3a044
+[19-01-2024 17:19:15] Checking 7bd6261c-ecb0-40ba-b743-c3d1e4df5fff
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/7bd6261c-ecb0-40ba-b743-c3d1e4df5fff
+[19-01-2024 17:19:15] Checking 52967031-f9b8-4bfd-978c-808c7f7a041f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/52967031-f9b8-4bfd-978c-808c7f7a041f
+[19-01-2024 17:19:15] Checking 1f948595-a7a0-4a02-bcaa-8ff9cf0c7552
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/1f948595-a7a0-4a02-bcaa-8ff9cf0c7552
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/1f948595-a7a0-4a02-bcaa-8ff9cf0c7552
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/52967031-f9b8-4bfd-978c-808c7f7a041f
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/7bd6261c-ecb0-40ba-b743-c3d1e4df5fff
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/95cd3a9e-d854-48c6-b568-002e83c3a044
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/d3862c0c-3208-426e-9d99-b63f41ab7b4a
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/e320d50d-2b80-41fc-96ce-ba37350d3be3
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/e5ed57e8-7b5b-46f2-b458-9a8a1a01fc36
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkBackRight/layers/f2f174dd-e4e8-464a-8c6e-9c8745987260
+[19-01-2024 17:19:15] Checking 8026ee3d-0eba-4556-984a-24a46888e95c.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft
+[19-01-2024 17:19:15] Checking sPlayerWalkLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/sPlayerWalkLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerWalkLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers
+[19-01-2024 17:19:15] Checking f4d7fd4e-e165-4009-82dc-e61a7f06624a.png
+[19-01-2024 17:19:15] Checking cb38b8bd-bd34-4564-8c8c-4d80b377ff03.png
+[19-01-2024 17:19:15] Checking be5f4a68-0de0-472c-aa89-c32f0edcf44c.png
+[19-01-2024 17:19:15] Checking 882b3f04-18eb-436a-9402-147d9765fe73.png
+[19-01-2024 17:19:15] Checking 72cba031-717b-4c28-8629-f2dfe98ec0b5.png
+[19-01-2024 17:19:15] Checking 5d233d65-16a5-489e-85f2-bed858656409.png
+[19-01-2024 17:19:15] Checking 481f06cb-db20-4524-a03a-beac57b7c66e.png
+[19-01-2024 17:19:15] Checking 2f0b58f4-ede2-4eb3-b44d-f80a3d5b3cd9.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers
+[19-01-2024 17:19:15] Checking f4d7fd4e-e165-4009-82dc-e61a7f06624a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/f4d7fd4e-e165-4009-82dc-e61a7f06624a
+[19-01-2024 17:19:15] Checking cb38b8bd-bd34-4564-8c8c-4d80b377ff03
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/cb38b8bd-bd34-4564-8c8c-4d80b377ff03
+[19-01-2024 17:19:15] Checking be5f4a68-0de0-472c-aa89-c32f0edcf44c
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/be5f4a68-0de0-472c-aa89-c32f0edcf44c
+[19-01-2024 17:19:15] Checking 882b3f04-18eb-436a-9402-147d9765fe73
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/882b3f04-18eb-436a-9402-147d9765fe73
+[19-01-2024 17:19:15] Checking 72cba031-717b-4c28-8629-f2dfe98ec0b5
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/72cba031-717b-4c28-8629-f2dfe98ec0b5
+[19-01-2024 17:19:15] Checking 5d233d65-16a5-489e-85f2-bed858656409
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/5d233d65-16a5-489e-85f2-bed858656409
+[19-01-2024 17:19:15] Checking 481f06cb-db20-4524-a03a-beac57b7c66e
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/481f06cb-db20-4524-a03a-beac57b7c66e
+[19-01-2024 17:19:15] Checking 2f0b58f4-ede2-4eb3-b44d-f80a3d5b3cd9
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/2f0b58f4-ede2-4eb3-b44d-f80a3d5b3cd9
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/2f0b58f4-ede2-4eb3-b44d-f80a3d5b3cd9
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/481f06cb-db20-4524-a03a-beac57b7c66e
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/5d233d65-16a5-489e-85f2-bed858656409
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/72cba031-717b-4c28-8629-f2dfe98ec0b5
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/882b3f04-18eb-436a-9402-147d9765fe73
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/be5f4a68-0de0-472c-aa89-c32f0edcf44c
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/cb38b8bd-bd34-4564-8c8c-4d80b377ff03
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkLeft/layers/f4d7fd4e-e165-4009-82dc-e61a7f06624a
+[19-01-2024 17:19:15] Checking 75acd847-7584-4599-ac7a-16d9bf10c0b7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight
+[19-01-2024 17:19:15] Checking sPlayerWalkRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/sPlayerWalkRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/sPlayerWalkRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/sPlayerWalkRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sPlayerWalkRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers
+[19-01-2024 17:19:15] Checking f137cd5f-2002-4e68-9f97-26d58e9a6ddf.png
+[19-01-2024 17:19:15] Checking d24ad6e1-5bb7-4a88-8d4a-ccf47e385238.png
+[19-01-2024 17:19:15] Checking c4f4220b-49df-4809-b0a0-d7d13531c196.png
+[19-01-2024 17:19:15] Checking c1e4b7ca-ed9b-44da-8452-3cafc902cc2d.png
+[19-01-2024 17:19:15] Checking 9b5f39aa-183c-485d-b010-a20fb6a9e39b.png
+[19-01-2024 17:19:15] Checking 959016b6-c5a0-4084-b19b-49f4140ab552.png
+[19-01-2024 17:19:15] Checking 76f595d9-0879-443f-81b1-bc5ece0e66f9.png
+[19-01-2024 17:19:15] Checking 5e43968e-3064-430f-9140-1be356355a17.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers
+[19-01-2024 17:19:15] Checking f137cd5f-2002-4e68-9f97-26d58e9a6ddf
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/f137cd5f-2002-4e68-9f97-26d58e9a6ddf
+[19-01-2024 17:19:15] Checking d24ad6e1-5bb7-4a88-8d4a-ccf47e385238
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/d24ad6e1-5bb7-4a88-8d4a-ccf47e385238
+[19-01-2024 17:19:15] Checking c4f4220b-49df-4809-b0a0-d7d13531c196
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/c4f4220b-49df-4809-b0a0-d7d13531c196
+[19-01-2024 17:19:15] Checking c1e4b7ca-ed9b-44da-8452-3cafc902cc2d
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/c1e4b7ca-ed9b-44da-8452-3cafc902cc2d
+[19-01-2024 17:19:15] Checking 9b5f39aa-183c-485d-b010-a20fb6a9e39b
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/9b5f39aa-183c-485d-b010-a20fb6a9e39b
+[19-01-2024 17:19:15] Checking 959016b6-c5a0-4084-b19b-49f4140ab552
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/959016b6-c5a0-4084-b19b-49f4140ab552
+[19-01-2024 17:19:15] Checking 76f595d9-0879-443f-81b1-bc5ece0e66f9
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/76f595d9-0879-443f-81b1-bc5ece0e66f9
+[19-01-2024 17:19:15] Checking 5e43968e-3064-430f-9140-1be356355a17
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/5e43968e-3064-430f-9140-1be356355a17
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/5e43968e-3064-430f-9140-1be356355a17
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/76f595d9-0879-443f-81b1-bc5ece0e66f9
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/959016b6-c5a0-4084-b19b-49f4140ab552
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/9b5f39aa-183c-485d-b010-a20fb6a9e39b
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/c1e4b7ca-ed9b-44da-8452-3cafc902cc2d
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/c4f4220b-49df-4809-b0a0-d7d13531c196
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/d24ad6e1-5bb7-4a88-8d4a-ccf47e385238
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sPlayerWalkRight/layers/f137cd5f-2002-4e68-9f97-26d58e9a6ddf
+[19-01-2024 17:19:15] Checking ec0a13f6-c8ef-4bf4-a5da-3372ed24b7f1.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft
+[19-01-2024 17:19:15] Checking sSlashBackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/sSlashBackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/sSlashBackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Attack" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/sSlashBackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sSlashBackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers
+[19-01-2024 17:19:15] Checking b5caeb34-4698-4959-89a9-737bae99eead.png
+[19-01-2024 17:19:15] Checking 64e41b1e-7861-4606-8979-5caa6cbcb62b.png
+[19-01-2024 17:19:15] Checking 4e5b0545-71f8-42b4-8572-3dbc70e91bf7.png
+[19-01-2024 17:19:15] Checking 1bce8855-f51b-4923-8cdf-811d98f04c1f.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers
+[19-01-2024 17:19:15] Checking b5caeb34-4698-4959-89a9-737bae99eead
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/b5caeb34-4698-4959-89a9-737bae99eead
+[19-01-2024 17:19:15] Checking 64e41b1e-7861-4606-8979-5caa6cbcb62b
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/64e41b1e-7861-4606-8979-5caa6cbcb62b
+[19-01-2024 17:19:15] Checking 4e5b0545-71f8-42b4-8572-3dbc70e91bf7
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/4e5b0545-71f8-42b4-8572-3dbc70e91bf7
+[19-01-2024 17:19:15] Checking 1bce8855-f51b-4923-8cdf-811d98f04c1f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/1bce8855-f51b-4923-8cdf-811d98f04c1f
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/1bce8855-f51b-4923-8cdf-811d98f04c1f
+[19-01-2024 17:19:15] Checking 6ade459f-14f9-4042-adcb-6894fa9f31da.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/4e5b0545-71f8-42b4-8572-3dbc70e91bf7
+[19-01-2024 17:19:15] Checking 6ade459f-14f9-4042-adcb-6894fa9f31da.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/64e41b1e-7861-4606-8979-5caa6cbcb62b
+[19-01-2024 17:19:15] Checking 6ade459f-14f9-4042-adcb-6894fa9f31da.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackLeft/layers/b5caeb34-4698-4959-89a9-737bae99eead
+[19-01-2024 17:19:15] Checking 6ade459f-14f9-4042-adcb-6894fa9f31da.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight
+[19-01-2024 17:19:15] Checking sSlashBackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/sSlashBackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/sSlashBackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Attack" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/sSlashBackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sSlashBackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers
+[19-01-2024 17:19:15] Checking c9f3b908-95f7-4271-91fe-8dd29f1900f6.png
+[19-01-2024 17:19:15] Checking 24d1e39b-7392-4456-87e2-50866da81754.png
+[19-01-2024 17:19:15] Checking 15becbab-403c-4d86-9961-4b87be89bdb1.png
+[19-01-2024 17:19:15] Checking 08003944-f068-4eca-be7a-eddb2ae52703.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers
+[19-01-2024 17:19:15] Checking c9f3b908-95f7-4271-91fe-8dd29f1900f6
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/c9f3b908-95f7-4271-91fe-8dd29f1900f6
+[19-01-2024 17:19:15] Checking 24d1e39b-7392-4456-87e2-50866da81754
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/24d1e39b-7392-4456-87e2-50866da81754
+[19-01-2024 17:19:15] Checking 15becbab-403c-4d86-9961-4b87be89bdb1
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/15becbab-403c-4d86-9961-4b87be89bdb1
+[19-01-2024 17:19:15] Checking 08003944-f068-4eca-be7a-eddb2ae52703
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/08003944-f068-4eca-be7a-eddb2ae52703
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/08003944-f068-4eca-be7a-eddb2ae52703
+[19-01-2024 17:19:15] Checking 396aa7fd-b0dd-4117-a96c-98360650c4eb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/15becbab-403c-4d86-9961-4b87be89bdb1
+[19-01-2024 17:19:15] Checking 396aa7fd-b0dd-4117-a96c-98360650c4eb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/24d1e39b-7392-4456-87e2-50866da81754
+[19-01-2024 17:19:15] Checking 396aa7fd-b0dd-4117-a96c-98360650c4eb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashBackRight/layers/c9f3b908-95f7-4271-91fe-8dd29f1900f6
+[19-01-2024 17:19:15] Checking 396aa7fd-b0dd-4117-a96c-98360650c4eb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft
+[19-01-2024 17:19:15] Checking sSlashLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/sSlashLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/sSlashLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Attack" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/sSlashLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sSlashLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers
+[19-01-2024 17:19:15] Checking be346537-6962-4cb8-a15d-f2e241739541.png
+[19-01-2024 17:19:15] Checking a1970269-e2ce-4ac3-8e6b-629e1bd106c7.png
+[19-01-2024 17:19:15] Checking 6e40a1f8-1f95-4a82-9739-a2a2a9587f80.png
+[19-01-2024 17:19:15] Checking 3614cfab-9769-4dbb-849a-3d3e18c53069.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers
+[19-01-2024 17:19:15] Checking be346537-6962-4cb8-a15d-f2e241739541
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/be346537-6962-4cb8-a15d-f2e241739541
+[19-01-2024 17:19:15] Checking a1970269-e2ce-4ac3-8e6b-629e1bd106c7
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/a1970269-e2ce-4ac3-8e6b-629e1bd106c7
+[19-01-2024 17:19:15] Checking 6e40a1f8-1f95-4a82-9739-a2a2a9587f80
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/6e40a1f8-1f95-4a82-9739-a2a2a9587f80
+[19-01-2024 17:19:15] Checking 3614cfab-9769-4dbb-849a-3d3e18c53069
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/3614cfab-9769-4dbb-849a-3d3e18c53069
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/3614cfab-9769-4dbb-849a-3d3e18c53069
+[19-01-2024 17:19:15] Checking 2aa1d271-e2b9-444b-89e5-a1c45782bd34.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/6e40a1f8-1f95-4a82-9739-a2a2a9587f80
+[19-01-2024 17:19:15] Checking 2aa1d271-e2b9-444b-89e5-a1c45782bd34.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/a1970269-e2ce-4ac3-8e6b-629e1bd106c7
+[19-01-2024 17:19:15] Checking 2aa1d271-e2b9-444b-89e5-a1c45782bd34.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashLeft/layers/be346537-6962-4cb8-a15d-f2e241739541
+[19-01-2024 17:19:15] Checking 2aa1d271-e2b9-444b-89e5-a1c45782bd34.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight
+[19-01-2024 17:19:15] Checking sSlashRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/sSlashRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/sSlashRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Attack" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/sSlashRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sSlashRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers
+[19-01-2024 17:19:15] Checking d6902823-87c8-41cf-9a6e-533b8999f41f.png
+[19-01-2024 17:19:15] Checking ca987804-f7b9-4037-a6fd-2a80d28faed5.png
+[19-01-2024 17:19:15] Checking 3b55273d-b0f1-45d1-9211-88236b0db8e2.png
+[19-01-2024 17:19:15] Checking 37533da3-0aae-4489-bfb1-09c897c27c17.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers
+[19-01-2024 17:19:15] Checking d6902823-87c8-41cf-9a6e-533b8999f41f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/d6902823-87c8-41cf-9a6e-533b8999f41f
+[19-01-2024 17:19:15] Checking ca987804-f7b9-4037-a6fd-2a80d28faed5
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/ca987804-f7b9-4037-a6fd-2a80d28faed5
+[19-01-2024 17:19:15] Checking 3b55273d-b0f1-45d1-9211-88236b0db8e2
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/3b55273d-b0f1-45d1-9211-88236b0db8e2
+[19-01-2024 17:19:15] Checking 37533da3-0aae-4489-bfb1-09c897c27c17
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/37533da3-0aae-4489-bfb1-09c897c27c17
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/37533da3-0aae-4489-bfb1-09c897c27c17
+[19-01-2024 17:19:15] Checking 3e9ea88f-c59f-4366-b711-51884e115707.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/3b55273d-b0f1-45d1-9211-88236b0db8e2
+[19-01-2024 17:19:15] Checking 3e9ea88f-c59f-4366-b711-51884e115707.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/ca987804-f7b9-4037-a6fd-2a80d28faed5
+[19-01-2024 17:19:15] Checking 3e9ea88f-c59f-4366-b711-51884e115707.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSlashRight/layers/d6902823-87c8-41cf-9a6e-533b8999f41f
+[19-01-2024 17:19:15] Checking 3e9ea88f-c59f-4366-b711-51884e115707.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall
+[19-01-2024 17:19:15] Checking sSolidWall.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/sSolidWall.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/sSolidWall.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Walls" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/sSolidWall.yy"
+[19-01-2024 17:19:15] Found Sprite: sSolidWall
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/layers
+[19-01-2024 17:19:15] Checking 39d8fa3c-0aab-427d-b965-36e43bb48de8.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/layers
+[19-01-2024 17:19:15] Checking 39d8fa3c-0aab-427d-b965-36e43bb48de8
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/layers/39d8fa3c-0aab-427d-b965-36e43bb48de8
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSolidWall/layers/39d8fa3c-0aab-427d-b965-36e43bb48de8
+[19-01-2024 17:19:15] Checking a9368f48-42a4-4e35-95ba-9b3b4e743344.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft
+[19-01-2024 17:19:15] Checking sSpreadAttackLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/sSpreadAttackLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/sSpreadAttackLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/sSpreadAttackLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadAttackLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers
+[19-01-2024 17:19:15] Checking fcbf3d84-8528-468d-9c76-2f1effe1cbde.png
+[19-01-2024 17:19:15] Checking e9148602-87c6-4a63-bccc-2f80316fcdfc.png
+[19-01-2024 17:19:15] Checking cb093908-701f-4fd0-9e49-2947d134a5b7.png
+[19-01-2024 17:19:15] Checking 15b45775-0921-44a8-aac2-7cdb36b7b13a.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers
+[19-01-2024 17:19:15] Checking fcbf3d84-8528-468d-9c76-2f1effe1cbde
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/fcbf3d84-8528-468d-9c76-2f1effe1cbde
+[19-01-2024 17:19:15] Checking e9148602-87c6-4a63-bccc-2f80316fcdfc
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/e9148602-87c6-4a63-bccc-2f80316fcdfc
+[19-01-2024 17:19:15] Checking cb093908-701f-4fd0-9e49-2947d134a5b7
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/cb093908-701f-4fd0-9e49-2947d134a5b7
+[19-01-2024 17:19:15] Checking 15b45775-0921-44a8-aac2-7cdb36b7b13a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/15b45775-0921-44a8-aac2-7cdb36b7b13a
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/15b45775-0921-44a8-aac2-7cdb36b7b13a
+[19-01-2024 17:19:15] Checking 03d1b4c6-87a9-4880-9c0d-cd0d879a338d.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/cb093908-701f-4fd0-9e49-2947d134a5b7
+[19-01-2024 17:19:15] Checking 03d1b4c6-87a9-4880-9c0d-cd0d879a338d.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/e9148602-87c6-4a63-bccc-2f80316fcdfc
+[19-01-2024 17:19:15] Checking 03d1b4c6-87a9-4880-9c0d-cd0d879a338d.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackLeft/layers/fcbf3d84-8528-468d-9c76-2f1effe1cbde
+[19-01-2024 17:19:15] Checking 03d1b4c6-87a9-4880-9c0d-cd0d879a338d.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight
+[19-01-2024 17:19:15] Checking sSpreadAttackRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/sSpreadAttackRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/sSpreadAttackRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/sSpreadAttackRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadAttackRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers
+[19-01-2024 17:19:15] Checking 84a9d304-d78d-4e9e-9326-32d70323bed1.png
+[19-01-2024 17:19:15] Checking 73dfe66c-5e56-4321-bb2b-353a634fbfc9.png
+[19-01-2024 17:19:15] Checking 205af4ec-2972-42d5-8363-1b7dfd3a82fe.png
+[19-01-2024 17:19:15] Checking 14ecaba4-b6bf-45b8-8d24-fd7bfe74945f.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers
+[19-01-2024 17:19:15] Checking 84a9d304-d78d-4e9e-9326-32d70323bed1
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/84a9d304-d78d-4e9e-9326-32d70323bed1
+[19-01-2024 17:19:15] Checking 73dfe66c-5e56-4321-bb2b-353a634fbfc9
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/73dfe66c-5e56-4321-bb2b-353a634fbfc9
+[19-01-2024 17:19:15] Checking 205af4ec-2972-42d5-8363-1b7dfd3a82fe
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/205af4ec-2972-42d5-8363-1b7dfd3a82fe
+[19-01-2024 17:19:15] Checking 14ecaba4-b6bf-45b8-8d24-fd7bfe74945f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/14ecaba4-b6bf-45b8-8d24-fd7bfe74945f
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/14ecaba4-b6bf-45b8-8d24-fd7bfe74945f
+[19-01-2024 17:19:15] Checking 04faba74-b810-4920-b0dd-e9d62fbecda7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/205af4ec-2972-42d5-8363-1b7dfd3a82fe
+[19-01-2024 17:19:15] Checking 04faba74-b810-4920-b0dd-e9d62fbecda7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/73dfe66c-5e56-4321-bb2b-353a634fbfc9
+[19-01-2024 17:19:15] Checking 04faba74-b810-4920-b0dd-e9d62fbecda7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadAttackRight/layers/84a9d304-d78d-4e9e-9326-32d70323bed1
+[19-01-2024 17:19:15] Checking 04faba74-b810-4920-b0dd-e9d62fbecda7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft
+[19-01-2024 17:19:15] Checking sSpreadLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/sSpreadLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/sSpreadLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/sSpreadLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers
+[19-01-2024 17:19:15] Checking 4822f76f-a98a-46f3-aa13-68f4c990f186.png
+[19-01-2024 17:19:15] Checking 324db46f-ce3c-49c1-992d-1b9b176deb27.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers
+[19-01-2024 17:19:15] Checking 4822f76f-a98a-46f3-aa13-68f4c990f186
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers/4822f76f-a98a-46f3-aa13-68f4c990f186
+[19-01-2024 17:19:15] Checking 324db46f-ce3c-49c1-992d-1b9b176deb27
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers/324db46f-ce3c-49c1-992d-1b9b176deb27
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers/324db46f-ce3c-49c1-992d-1b9b176deb27
+[19-01-2024 17:19:15] Checking dc583a21-eabf-4734-8ec1-667aa01f49c5.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadLeft/layers/4822f76f-a98a-46f3-aa13-68f4c990f186
+[19-01-2024 17:19:15] Checking dc583a21-eabf-4734-8ec1-667aa01f49c5.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight
+[19-01-2024 17:19:15] Checking sSpreadRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/sSpreadRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/sSpreadRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/sSpreadRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers
+[19-01-2024 17:19:15] Checking a4fabf2c-a80a-4494-91c2-a78192963464.png
+[19-01-2024 17:19:15] Checking 9e61bfb5-3cff-42e6-acbf-35e0580735fb.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers
+[19-01-2024 17:19:15] Checking a4fabf2c-a80a-4494-91c2-a78192963464
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers/a4fabf2c-a80a-4494-91c2-a78192963464
+[19-01-2024 17:19:15] Checking 9e61bfb5-3cff-42e6-acbf-35e0580735fb
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers/9e61bfb5-3cff-42e6-acbf-35e0580735fb
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers/9e61bfb5-3cff-42e6-acbf-35e0580735fb
+[19-01-2024 17:19:15] Checking 0271f351-8872-4cb2-8bb7-6d20c39071a7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadRight/layers/a4fabf2c-a80a-4494-91c2-a78192963464
+[19-01-2024 17:19:15] Checking 0271f351-8872-4cb2-8bb7-6d20c39071a7.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft
+[19-01-2024 17:19:15] Checking sSpreadWalkLeft.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/sSpreadWalkLeft.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/sSpreadWalkLeft.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/sSpreadWalkLeft.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadWalkLeft
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers
+[19-01-2024 17:19:15] Checking 9a32d359-d41f-4b7a-b1ad-926a6bcfd13e.png
+[19-01-2024 17:19:15] Checking 6de0c7f5-2850-4288-b47c-217ad4aed937.png
+[19-01-2024 17:19:15] Checking 2563ba0e-c08b-4cee-b058-798c835f1f8a.png
+[19-01-2024 17:19:15] Checking 20ebbbb0-e95b-43c4-a3ba-578460f62f52.png
+[19-01-2024 17:19:15] Checking 160ced66-99a3-4c8a-bc77-23d8753ee7a4.png
+[19-01-2024 17:19:15] Checking 12afb1a8-5d9a-48b0-85d4-97c5bcebaf86.png
+[19-01-2024 17:19:15] Checking 05d546ca-bca0-4845-9e07-dca51c1b67b8.png
+[19-01-2024 17:19:15] Checking 03701c0d-02ed-4048-8a3e-39c95fdf6a4e.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers
+[19-01-2024 17:19:15] Checking 9a32d359-d41f-4b7a-b1ad-926a6bcfd13e
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/9a32d359-d41f-4b7a-b1ad-926a6bcfd13e
+[19-01-2024 17:19:15] Checking 6de0c7f5-2850-4288-b47c-217ad4aed937
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/6de0c7f5-2850-4288-b47c-217ad4aed937
+[19-01-2024 17:19:15] Checking 2563ba0e-c08b-4cee-b058-798c835f1f8a
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/2563ba0e-c08b-4cee-b058-798c835f1f8a
+[19-01-2024 17:19:15] Checking 20ebbbb0-e95b-43c4-a3ba-578460f62f52
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/20ebbbb0-e95b-43c4-a3ba-578460f62f52
+[19-01-2024 17:19:15] Checking 160ced66-99a3-4c8a-bc77-23d8753ee7a4
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/160ced66-99a3-4c8a-bc77-23d8753ee7a4
+[19-01-2024 17:19:15] Checking 12afb1a8-5d9a-48b0-85d4-97c5bcebaf86
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/12afb1a8-5d9a-48b0-85d4-97c5bcebaf86
+[19-01-2024 17:19:15] Checking 05d546ca-bca0-4845-9e07-dca51c1b67b8
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/05d546ca-bca0-4845-9e07-dca51c1b67b8
+[19-01-2024 17:19:15] Checking 03701c0d-02ed-4048-8a3e-39c95fdf6a4e
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/03701c0d-02ed-4048-8a3e-39c95fdf6a4e
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/03701c0d-02ed-4048-8a3e-39c95fdf6a4e
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/05d546ca-bca0-4845-9e07-dca51c1b67b8
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/12afb1a8-5d9a-48b0-85d4-97c5bcebaf86
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/160ced66-99a3-4c8a-bc77-23d8753ee7a4
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/20ebbbb0-e95b-43c4-a3ba-578460f62f52
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/2563ba0e-c08b-4cee-b058-798c835f1f8a
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/6de0c7f5-2850-4288-b47c-217ad4aed937
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkLeft/layers/9a32d359-d41f-4b7a-b1ad-926a6bcfd13e
+[19-01-2024 17:19:15] Checking 70c7bb1f-d8ec-41f4-9754-476a4f453d22.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight
+[19-01-2024 17:19:15] Checking sSpreadWalkRight.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/sSpreadWalkRight.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/sSpreadWalkRight.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Player/Spread" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/sSpreadWalkRight.yy"
+[19-01-2024 17:19:15] Found Sprite: sSpreadWalkRight
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers
+[19-01-2024 17:19:15] Checking d25957ef-4b74-4328-b719-368a4af4f424.png
+[19-01-2024 17:19:15] Checking d10a4c06-b1e7-4041-9e1f-47138118de45.png
+[19-01-2024 17:19:15] Checking cf56111d-7ab5-458f-b23f-3b273fd8668b.png
+[19-01-2024 17:19:15] Checking b4cffc4b-1c32-422f-b2fd-311a9b9bde2f.png
+[19-01-2024 17:19:15] Checking 935c9f81-fbf8-45ef-a4ad-f1c8d745284f.png
+[19-01-2024 17:19:15] Checking 83bb07a5-27e3-4ccf-8d4c-d53cd41f2a61.png
+[19-01-2024 17:19:15] Checking 7d18eced-e80c-4564-b1f2-90c9094a4444.png
+[19-01-2024 17:19:15] Checking 3719b96d-1d5c-48a5-8a7f-8ef765b5b699.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers
+[19-01-2024 17:19:15] Checking d25957ef-4b74-4328-b719-368a4af4f424
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/d25957ef-4b74-4328-b719-368a4af4f424
+[19-01-2024 17:19:15] Checking d10a4c06-b1e7-4041-9e1f-47138118de45
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/d10a4c06-b1e7-4041-9e1f-47138118de45
+[19-01-2024 17:19:15] Checking cf56111d-7ab5-458f-b23f-3b273fd8668b
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/cf56111d-7ab5-458f-b23f-3b273fd8668b
+[19-01-2024 17:19:15] Checking b4cffc4b-1c32-422f-b2fd-311a9b9bde2f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/b4cffc4b-1c32-422f-b2fd-311a9b9bde2f
+[19-01-2024 17:19:15] Checking 935c9f81-fbf8-45ef-a4ad-f1c8d745284f
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/935c9f81-fbf8-45ef-a4ad-f1c8d745284f
+[19-01-2024 17:19:15] Checking 83bb07a5-27e3-4ccf-8d4c-d53cd41f2a61
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/83bb07a5-27e3-4ccf-8d4c-d53cd41f2a61
+[19-01-2024 17:19:15] Checking 7d18eced-e80c-4564-b1f2-90c9094a4444
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/7d18eced-e80c-4564-b1f2-90c9094a4444
+[19-01-2024 17:19:15] Checking 3719b96d-1d5c-48a5-8a7f-8ef765b5b699
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/3719b96d-1d5c-48a5-8a7f-8ef765b5b699
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/3719b96d-1d5c-48a5-8a7f-8ef765b5b699
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/7d18eced-e80c-4564-b1f2-90c9094a4444
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/83bb07a5-27e3-4ccf-8d4c-d53cd41f2a61
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/935c9f81-fbf8-45ef-a4ad-f1c8d745284f
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/b4cffc4b-1c32-422f-b2fd-311a9b9bde2f
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/cf56111d-7ab5-458f-b23f-3b273fd8668b
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/d10a4c06-b1e7-4041-9e1f-47138118de45
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sSpreadWalkRight/layers/d25957ef-4b74-4328-b719-368a4af4f424
+[19-01-2024 17:19:15] Checking 745afbfa-f3f7-485d-90eb-ef45b13f2526.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle
+[19-01-2024 17:19:15] Checking strawberry_idle.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/strawberry_idle.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/strawberry_idle.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Jams/Jam Sprites" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/strawberry_idle.yy"
+[19-01-2024 17:19:15] Found Sprite: strawberry_idle
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers
+[19-01-2024 17:19:15] Checking e5e86daa-a158-4d87-bcf5-d1501bca9f08.png
+[19-01-2024 17:19:15] Checking 69b44302-ffdb-468f-97f1-8f5c3cf8f4fe.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers
+[19-01-2024 17:19:15] Checking e5e86daa-a158-4d87-bcf5-d1501bca9f08
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers/e5e86daa-a158-4d87-bcf5-d1501bca9f08
+[19-01-2024 17:19:15] Checking 69b44302-ffdb-468f-97f1-8f5c3cf8f4fe
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers/69b44302-ffdb-468f-97f1-8f5c3cf8f4fe
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers/69b44302-ffdb-468f-97f1-8f5c3cf8f4fe
+[19-01-2024 17:19:15] Checking 1fff86ef-5926-4e53-8635-f8ec0a37abea.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/strawberry_idle/layers/e5e86daa-a158-4d87-bcf5-d1501bca9f08
+[19-01-2024 17:19:15] Checking 1fff86ef-5926-4e53-8635-f8ec0a37abea.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall
+[19-01-2024 17:19:15] Checking sWall.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/sWall.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/sWall.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/Walls" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/sWall.yy"
+[19-01-2024 17:19:15] Found Sprite: sWall
+[19-01-2024 17:19:15] Checking layers
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/layers
+[19-01-2024 17:19:15] Checking 65ac4c40-3a16-45f1-8bff-61b4fc634c25.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/layers
+[19-01-2024 17:19:15] Checking 65ac4c40-3a16-45f1-8bff-61b4fc634c25
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/layers/65ac4c40-3a16-45f1-8bff-61b4fc634c25
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/sprites/sWall/layers/65ac4c40-3a16-45f1-8bff-61b4fc634c25
+[19-01-2024 17:19:15] Checking e1cfdac3-774e-4d66-a086-087ad5e448e6.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets
+[19-01-2024 17:19:15] Checking TileSet1
+[19-01-2024 17:19:15] Directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets/TileSet1
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets/TileSet1
+[19-01-2024 17:19:15] Checking TileSet1.yy
+[19-01-2024 17:19:15] Parsing C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets/TileSet1/TileSet1.yy
+[19-01-2024 17:19:15] Reading C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets/TileSet1/TileSet1.yy
+[19-01-2024 17:19:15] Par: "folders/Objects/background" at dir: "C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/tilesets/TileSet1/TileSet1.yy"
+[19-01-2024 17:19:15] Found TileSet: TileSet1
+[19-01-2024 17:19:15] Checking output_tileset.png
+[19-01-2024 17:19:15] Current parent directory: C:/Users/mckmi/Documents/GameMakerStudio2/BreadGame/timelines
+[19-01-2024 17:19:15] Moving files to trash...
+[19-01-2024 17:19:15] Files yeeted successfully!
+[19-01-2024 17:19:15] Generating YYP...
+[19-01-2024 17:19:15] BreadGame.yyp created successfully!
