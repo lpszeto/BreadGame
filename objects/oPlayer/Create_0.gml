@@ -1,6 +1,6 @@
 //variables for movement
 moveDir = 0;
-moveSpd = 2;
+moveSpd = 10;
 xspd = 0;
 yspd = 0;
 cooldown = 0;
@@ -49,6 +49,9 @@ jar_break_bool = false;
 
 	currentSprite = sprite;
 	sprite_index = currentSprite[face];
+	
+	image_xscale = 0.5;
+	image_yscale = 0.5; 
 #endregion
 
 
