@@ -9,7 +9,10 @@
     "name": "Jams",
     "path": "folders/Objects/Jams.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "FatherJam",
+    "path": "objects/FatherJam/FatherJam.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
